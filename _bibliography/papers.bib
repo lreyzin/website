@@ -1,40 +1,85 @@
----
----
-@article{Heinecke_Reyzin_2019, title={Crowdsourced PAC Learning under Classification Noise}, volume={7}, url={https://ojs.aaai.org/index.php/HCOMP/article/view/5279}, abstract={In this paper, we analyze PAC learnability from labels produced by crowdsourcing. In our setting, unlabeled examples are drawn from a distribution and labels are crowdsourced from workers who operate under classification noise, each with their own noise parameter. We develop an end-to-end crowdsourced PAC learning algorithm that takes unlabeled data points as input and outputs a trained classifier. Our three-step algorithm incorporates majority voting, pure-exploration bandits, and noisy-PAC learning. We prove several guarantees on the number of tasks labeled by workers for PAC learning in this setting and show that our algorithm improves upon the baseline by reducing the total number of tasks given to workers. We demonstrate the robustness of our algorithm by exploring its application to additional realistic crowdsourcing settings.}, number={1}, journal={Proceedings of the AAAI Conference on Human Computation and Crowdsourcing,}, author={Shelby Heinecke and Lev Reyzin}, year={2019}, month={Oct.}, pages={41-49},
-arxiv={1902.04629},
-abbr={HCOMP},
-slides={crowdsourcing.pdf}
+@inproceedings{DBLP:conf/aaai/BlumHR21,
+  author    = {Avrim Blum and
+               Shelby Heinecke and
+               Lev Reyzin},
+  title     = {Communication-Aware Collaborative Learning},
+  booktitle = {Thirty-Fifth {AAAI} Conference on Artificial Intelligence, {AAAI}
+               2021, Thirty-Third Conference on Innovative Applications of Artificial
+               Intelligence, {IAAI} 2021, The Eleventh Symposium on Educational Advances
+               in Artificial Intelligence, {EAAI} 2021, Virtual Event, February 2-9,
+               2021},
+  pages     = {6786--6793},
+  publisher = {{AAAI} Press},
+  year      = {2021},
+  url       = {https://ojs.aaai.org/index.php/AAAI/article/view/16838},
+  timestamp = {Wed, 02 Jun 2021 18:08:19 +0200},
+  biburl    = {https://dblp.org/rec/conf/aaai/BlumHR21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
-@misc{heinecke_2020, title={Resilient Structures and Robust Machine Learning Algorithms}, url={https://indigo.uic.edu/articles/thesis/Resilient_Structures_and_Robust_Machine_Learning_Algorithms/13474959/1}, DOI={10.25417/uic.13474959.v1}, abstract={Networks and learning algorithms are key themes in artificial intelligence (AI). Networks can be used to model the connections of a vast community of internet-of-things (IoT) devices, the internet, and distributed databases, among other important computing contexts for AI. Learning algorithms, which generate trained models, can be strategically designed to learn from a variety of data-rich networks, such as sensor networks, device networks, or even networks of humans working on crowdsourcing tasks. In real-world settings, noise generated from sources such as device inaccuracy or human error are unavoidable. Likewise, attacks in real-world networks, such as the injection of malware, are inevitable due to their ever-evolving sophistication. In this thesis, we study the intrusions of noise and malicious attacks on networks and learning from networks. We devise structural and algorithmic solutions for mitigating the effects of these unwanted intrusions. We first we consider viral propagation under the independent cascade model of infection spread on half-regular bipartite networks and characterize the most resilient structures. Then, we study learning and generalizing from a network of crowd workers, where crowd workers provide erroneous labels to unlabelled data at fixed, unknown error rates. In this setting, we develop a three-step probably approximately correct (PAC) algorithm that incorporates majority voting, pure-exploration bandits, and noisy-PAC learning and demonstrate our algorithm?s improvement over baseline approaches. Finally, we study learning from a network of participants, each with their own distribution on the unlabelled data in the presence of noise. We develop collaborative PAC algorithms robust to classification noise and prove sample complexity bounds. We also study the communication complexity of collaborative PAC learning, with and without classification noise, and develop communication efficient algorithms in both settings.}, publisher={University of Illinois at Chicago}, author={Heinecke, Shelby Lynn}, year={2020}, month={Aug},
-html={https://indigo.uic.edu/articles/thesis/Resilient_Structures_and_Robust_Machine_Learning_Algorithms/13474959},
-abbr={Thesis}} 
+@article{DBLP:journals/corr/abs-2102-03173,
+  author    = {Thomas Maranzatto and
+               Lev Reyzin},
+  title     = {Reconstructing Arbitrary Trees from Traces in the Tree Edit Distance
+               Model},
+  journal   = {CoRR},
+  volume    = {abs/2102.03173},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2102.03173},
+  archivePrefix = {arXiv},
+  eprint    = {2102.03173},
+  timestamp = {Wed, 10 Feb 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2102-03173.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
+@article{DBLP:journals/amai/BerendKRR20,
+  author    = {Daniel Berend and
+               Aryeh Kontorovich and
+               Lev Reyzin and
+               Thomas Robinson},
+  title     = {On biased random walks, corrupted intervals, and learning under adversarial
+               design},
+  journal   = {Ann. Math. Artif. Intell.},
+  volume    = {88},
+  number    = {8},
+  pages     = {887--905},
+  year      = {2020},
+  url       = {https://doi.org/10.1007/s10472-020-09696-1},
+  doi       = {10.1007/s10472-020-09696-1},
+  timestamp = {Wed, 05 Aug 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/amai/BerendKRR20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
-@INPROCEEDINGS{8636073,
-  author={Shelby Heinecke and Will Perkins and Lev Reyzin},
-  booktitle={2018 56th Annual Allerton Conference on Communication, Control, and Computing (Allerton),}, 
-  title={On the Resilience of Bipartite Networks}, 
-  year={2018},
-  volume={},
-  number={},
-  pages={72-77},
-  doi={10.1109/ALLERTON.2018.8636073},
-  arxiv={1306.5720},
-   abbr={Allerton},
-   abstract={Motivated by problems modeling the spread of infections in networks, in this paper we explore which bipartite graphs are most resilient to widespread infections under various parameter settings. Namely, we study bipartite networks with a requirement of a minimum degree d on one side under an independent infection, independent transmission model. We completely characterize the optimal graphs in the case d=1, which already produces non-trivial behavior, and we give extremal results for the more general cases. We show that in the case d=2, surprisingly, the optimally resilient set of graphs includes a graph that is not one of the two "extremes" found in the case d=1.
-Then, we briefly examine the case where we force a connectivity requirement instead of a one-sided degree requirement and again, we find that the set of the most resilient graphs contains more than the two "extremes." We also show that determining the subgraph of an arbitrary bipartite graph most resilient to infection is NP-hard for any one-sided minimal degree d >=1.}
-  }
-  
-@article{Blum_Heinecke_Reyzin_2021, title={Communication-Aware Collaborative Learning}, volume={35}, url={https://ojs.aaai.org/index.php/AAAI/article/view/16838}, abstract={Algorithms for noiseless collaborative PAC learning have been analyzed and optimized in recent years with respect to sample complexity. In this paper, we study collaborative PAC learning with the goal of reducing communication cost at essentially no penalty to the sample complexity. We develop communication efficient collaborative PAC learning algorithms using distributed boosting. We then consider the communication cost of collaborative learning in the presence of classification noise. As an intermediate step, we show how collaborative PAC learning algorithms can be adapted to handle classification noise. With this insight, we develop communication efficient algorithms for collaborative PAC learning robust to classification noise.}, number={8}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Avrim Blum and Shelby Heinecke and Lev Reyzin}, year={2021}, month={May}, abbr={AAAI}, pages={6786-6793}, slides={AAAI_2021_slides.pdf},  
-  video={https://virtual.2021.aaai.org/paper_AAAI-8554.html},
-  arxiv={2012.10569}}
+@article{DBLP:journals/jair/FishR20,
+  author    = {Benjamin Fish and
+               Lev Reyzin},
+  title     = {On the Complexity of Learning a Class Ratio from Unlabeled Data},
+  journal   = {J. Artif. Intell. Res.},
+  volume    = {69},
+  pages     = {1333--1349},
+  year      = {2020},
+  url       = {https://doi.org/10.1613/jair.1.12013},
+  doi       = {10.1613/jair.1.12013},
+  timestamp = {Mon, 04 Jan 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/jair/FishR20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
-@article{SMALL2012, title={On Measure-Theoretic Sensitivity in the Setting of N^d Actions},
-author={Shelby Heinecke and Emily Wickstrom and Cesar Silva},
-      abbr={In Preparation},
-      year={In Preparation}
-
+@article{DBLP:journals/tcs/HannekeR20,
+  author    = {Steve Hanneke and
+               Lev Reyzin},
+  title     = {Special issue on {ALT} 2017: Guest Editors' Introduction},
+  journal   = {Theor. Comput. Sci.},
+  volume    = {808},
+  pages     = {1},
+  year      = {2020},
+  url       = {https://doi.org/10.1016/j.tcs.2019.11.008},
+  doi       = {10.1016/j.tcs.2019.11.008},
+  timestamp = {Fri, 31 Jan 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tcs/HannekeR20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 
 @inproceedings{DBLP:conf/alt/FishRR20,
@@ -52,9 +97,1185 @@ author={Shelby Heinecke and Emily Wickstrom and Cesar Silva},
   publisher = {{PMLR}},
   year      = {2020},
   url       = {http://proceedings.mlr.press/v117/fish20a.html},
-  timestamp = {Thu, 18 Jun 2020 17:10:05 +0200},
+  timestamp = {Thu, 18 Jun 2020 11:48:49 +0200},
   biburl    = {https://dblp.org/rec/conf/alt/FishRR20.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org},
-  abbr={ALT 2020},
-  abbr={ALT 2021}
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+
+@article{DBLP:journals/corr/abs-2002-11541,
+  author    = {Mano Vikash Janardhanan and
+               Lev Reyzin},
+  title     = {On Learning a Hidden Directed Graph with Path Queries},
+  journal   = {CoRR},
+  volume    = {abs/2002.11541},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2002.11541},
+  archivePrefix = {arXiv},
+  eprint    = {2002.11541},
+  timestamp = {Tue, 03 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2002-11541.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2003-13561,
+  author    = {Daniel Berend and
+               Aryeh Kontorovich and
+               Lev Reyzin and
+               Thomas Robinson},
+  title     = {On Biased Random Walks, Corrupted Intervals, and Learning Under Adversarial
+               Design},
+  journal   = {CoRR},
+  volume    = {abs/2003.13561},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2003.13561},
+  archivePrefix = {arXiv},
+  eprint    = {2003.13561},
+  timestamp = {Wed, 01 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2003-13561.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2004-00557,
+  author    = {Lev Reyzin},
+  title     = {Statistical Queries and Statistical Algorithms: Foundations and Applications},
+  journal   = {CoRR},
+  volume    = {abs/2004.00557},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.00557},
+  archivePrefix = {arXiv},
+  eprint    = {2004.00557},
+  timestamp = {Wed, 08 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-00557.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2004-03515,
+  author    = {Benjamin Fish and
+               Lev Reyzin},
+  title     = {On the Complexity of Learning from Label Proportions},
+  journal   = {CoRR},
+  volume    = {abs/2004.03515},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2004.03515},
+  archivePrefix = {arXiv},
+  eprint    = {2004.03515},
+  timestamp = {Wed, 08 Apr 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2004-03515.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-2012-10569,
+  author    = {Avrim Blum and
+               Shelby Heinecke and
+               Lev Reyzin},
+  title     = {Communication-Aware Collaborative Learning},
+  journal   = {CoRR},
+  volume    = {abs/2012.10569},
+  year      = {2020},
+  url       = {https://arxiv.org/abs/2012.10569},
+  archivePrefix = {arXiv},
+  eprint    = {2012.10569},
+  timestamp = {Mon, 04 Jan 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2012-10569.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1902-04629,
+  author    = {Shelby Heinecke and
+               Lev Reyzin},
+  title     = {Crowdsourced {PAC} Learning under Classification Noise},
+  journal   = {CoRR},
+  volume    = {abs/1902.04629},
+  year      = {2019},
+  url       = {http://arxiv.org/abs/1902.04629},
+  archivePrefix = {arXiv},
+  eprint    = {1902.04629},
+  timestamp = {Tue, 21 May 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1902-04629.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/allerton/HeineckePR18,
+  author    = {Shelby Heinecke and
+               Will Perkins and
+               Lev Reyzin},
+  title     = {On the Resilience of Bipartite Networks},
+  booktitle = {56th Annual Allerton Conference on Communication, Control, and Computing,
+               Allerton 2018, Monticello, IL, USA, October 2-5, 2018},
+  pages     = {72--77},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {https://doi.org/10.1109/ALLERTON.2018.8636073},
+  doi       = {10.1109/ALLERTON.2018.8636073},
+  timestamp = {Sat, 05 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/allerton/HeineckePR18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isaim/FishRR18,
+  author    = {Benjamin Fish and
+               Lev Reyzin and
+               Benjamin I. P. Rubinstein},
+  title     = {Sublinear-Time Adaptive Data Analysis},
+  booktitle = {International Symposium on Artificial Intelligence and Mathematics,
+               {ISAIM} 2018, Fort Lauderdale, Florida, USA, January 3-5, 2018},
+  year      = {2018},
+  url       = {http://isaim2018.cs.virginia.edu/papers/ISAIM2018\_Fish\_etal.pdf},
+  timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/isaim/FishRR18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/amai/HellersteinRT17,
+  author    = {Lisa Hellerstein and
+               Lev Reyzin and
+               Gy{\"{o}}rgy Tur{\'{a}}n},
+  title     = {Foreword},
+  journal   = {Ann. Math. Artif. Intell.},
+  volume    = {79},
+  number    = {1-3},
+  pages     = {1--3},
+  year      = {2017},
+  url       = {https://doi.org/10.1007/s10472-016-9533-7},
+  doi       = {10.1007/s10472-016-9533-7},
+  timestamp = {Tue, 26 Jun 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/amai/HellersteinRT17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jacm/FeldmanGRVX17,
+  author    = {Vitaly Feldman and
+               Elena Grigorescu and
+               Lev Reyzin and
+               Santosh S. Vempala and
+               Ying Xiao},
+  title     = {Statistical Algorithms and a Lower Bound for Detecting Planted Cliques},
+  journal   = {J. {ACM}},
+  volume    = {64},
+  number    = {2},
+  pages     = {8:1--8:37},
+  year      = {2017},
+  url       = {https://doi.org/10.1145/3046674},
+  doi       = {10.1145/3046674},
+  timestamp = {Thu, 24 Oct 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jacm/FeldmanGRVX17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/allerton/CooperR17,
+  author    = {Jeff Cooper and
+               Lev Reyzin},
+  title     = {Improved algorithms for distributed boosting},
+  booktitle = {55th Annual Allerton Conference on Communication, Control, and Computing,
+               Allerton 2017, Monticello, IL, USA, October 3-6, 2017},
+  pages     = {806--813},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {https://doi.org/10.1109/ALLERTON.2017.8262822},
+  doi       = {10.1109/ALLERTON.2017.8262822},
+  timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
+  biburl    = {https://dblp.org/rec/conf/allerton/CooperR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/colt/FishR17,
+  author    = {Benjamin Fish and
+               Lev Reyzin},
+  editor    = {Satyen Kale and
+               Ohad Shamir},
+  title     = {Open Problem: Meeting Times for Learning Random Automata},
+  booktitle = {Proceedings of the 30th Conference on Learning Theory, {COLT} 2017,
+               Amsterdam, The Netherlands, 7-10 July 2017},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {65},
+  pages     = {8--11},
+  publisher = {{PMLR}},
+  year      = {2017},
+  url       = {http://proceedings.mlr.press/v65/fish17a.html},
+  timestamp = {Wed, 29 May 2019 08:41:46 +0200},
+  biburl    = {https://dblp.org/rec/conf/colt/FishR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/fsttcs/HuangJR17,
+  author    = {Yi Huang and
+               Mano Vikash Janardhanan and
+               Lev Reyzin},
+  editor    = {Satya V. Lokam and
+               R. Ramanujam},
+  title     = {Network Construction with Ordered Constraints},
+  booktitle = {37th {IARCS} Annual Conference on Foundations of Software Technology
+               and Theoretical Computer Science, {FSTTCS} 2017, December 11-15, 2017,
+               Kanpur, India},
+  series    = {LIPIcs},
+  volume    = {93},
+  pages     = {34:34--34:13},
+  publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year      = {2017},
+  url       = {https://doi.org/10.4230/LIPIcs.FSTTCS.2017.34},
+  doi       = {10.4230/LIPIcs.FSTTCS.2017.34},
+  timestamp = {Tue, 11 Feb 2020 15:52:14 +0100},
+  biburl    = {https://dblp.org/rec/conf/fsttcs/HuangJR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ijcai/FishR17,
+  author    = {Benjamin Fish and
+               Lev Reyzin},
+  editor    = {Carles Sierra},
+  title     = {On the Complexity of Learning from Label Proportions},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2017, Melbourne, Australia, August
+               19-25, 2017},
+  pages     = {1675--1681},
+  publisher = {ijcai.org},
+  year      = {2017},
+  url       = {https://doi.org/10.24963/ijcai.2017/232},
+  doi       = {10.24963/ijcai.2017/232},
+  timestamp = {Tue, 20 Aug 2019 16:16:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/ijcai/FishR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/alt/2017,
+  editor    = {Steve Hanneke and
+               Lev Reyzin},
+  title     = {International Conference on Algorithmic Learning Theory, {ALT} 2017,
+               15-17 October 2017, Kyoto University, Kyoto, Japan},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {76},
+  publisher = {{PMLR}},
+  year      = {2017},
+  url       = {http://proceedings.mlr.press/v76/},
+  timestamp = {Wed, 03 Apr 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/2017.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/HuangJR17,
+  author    = {Yi Huang and
+               Mano Vikash Janardhanan and
+               Lev Reyzin},
+  title     = {Network Construction with Ordered Constraints},
+  journal   = {CoRR},
+  volume    = {abs/1702.07292},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1702.07292},
+  archivePrefix = {arXiv},
+  eprint    = {1702.07292},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/HuangJR17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1709-09778,
+  author    = {Benjamin Fish and
+               Lev Reyzin and
+               Benjamin I. P. Rubinstein},
+  title     = {Sublinear-Time Adaptive Data Analysis},
+  journal   = {CoRR},
+  volume    = {abs/1709.09778},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1709.09778},
+  archivePrefix = {arXiv},
+  eprint    = {1709.09778},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1709-09778.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/compnet/GutfraindKLR16,
+  author    = {Alexander Gutfraind and
+               Jeremy Kun and
+               {\'{A}}d{\'{a}}m D{\'{a}}niel Lelkes and
+               Lev Reyzin},
+  title     = {Network installation under convex costs},
+  journal   = {J. Complex Networks},
+  volume    = {4},
+  number    = {2},
+  pages     = {177--186},
+  year      = {2016},
+  url       = {https://doi.org/10.1093/comnet/cnv020},
+  doi       = {10.1093/comnet/cnv020},
+  timestamp = {Sun, 28 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/compnet/GutfraindKLR16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/atal/FishHR16,
+  author    = {Benjamin Fish and
+               Yi Huang and
+               Lev Reyzin},
+  editor    = {Catholijn M. Jonker and
+               Stacy Marsella and
+               John Thangarajah and
+               Karl Tuyls},
+  title     = {Recovering Social Networks by Observing Votes},
+  booktitle = {Proceedings of the 2016 International Conference on Autonomous Agents
+               {\&} Multiagent Systems, Singapore, May 9-13, 2016},
+  pages     = {376--384},
+  publisher = {{ACM}},
+  year      = {2016},
+  url       = {http://dl.acm.org/citation.cfm?id=2936980},
+  timestamp = {Fri, 20 May 2016 20:33:29 +0200},
+  biburl    = {https://dblp.org/rec/conf/atal/FishHR16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isaim/FishHR16,
+  author    = {Benjamin Fish and
+               Yi Huang and
+               Lev Reyzin},
+  title     = {Recovering Social Networks by Observing Votes},
+  booktitle = {International Symposium on Artificial Intelligence and Mathematics,
+               {ISAIM} 2016, Fort Lauderdale, Florida, USA, January 4-6, 2016},
+  year      = {2016},
+  url       = {http://isaim2016.cs.virginia.edu/papers/ISAIM2016\_Fish\_etal.pdf},
+  timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/isaim/FishHR16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jco/AngluinAR15,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Lev Reyzin},
+  title     = {Network construction with subgraph connectivity constraints},
+  journal   = {J. Comb. Optim.},
+  volume    = {29},
+  number    = {2},
+  pages     = {418--432},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/s10878-013-9603-2},
+  doi       = {10.1007/s10878-013-9603-2},
+  timestamp = {Thu, 18 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jco/AngluinAR15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaai/LiuRZ15,
+  author    = {Anqi Liu and
+               Lev Reyzin and
+               Brian D. Ziebart},
+  editor    = {Blai Bonet and
+               Sven Koenig},
+  title     = {Shift-Pessimistic Active Learning Using Robust Bias-Aware Prediction},
+  booktitle = {Proceedings of the Twenty-Ninth {AAAI} Conference on Artificial Intelligence,
+               January 25-30, 2015, Austin, Texas, {USA}},
+  pages     = {2764--2770},
+  publisher = {{AAAI} Press},
+  year      = {2015},
+  url       = {http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9755},
+  timestamp = {Wed, 10 Feb 2021 08:43:24 +0100},
+  biburl    = {https://dblp.org/rec/conf/aaai/LiuRZ15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/LelkesR15,
+  author    = {{\'{A}}d{\'{a}}m D{\'{a}}niel Lelkes and
+               Lev Reyzin},
+  editor    = {Kamalika Chaudhuri and
+               Claudio Gentile and
+               Sandra Zilles},
+  title     = {Interactive Clustering of Linear Classes and Cryptographic Lower Bounds},
+  booktitle = {Algorithmic Learning Theory - 26th International Conference, {ALT}
+               2015, Banff, AB, Canada, October 4-6, 2015, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9355},
+  pages     = {165--176},
+  publisher = {Springer},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/978-3-319-24486-0\_11},
+  doi       = {10.1007/978-3-319-24486-0\_11},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/LelkesR15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/colt/KunR15,
+  author    = {Jeremy Kun and
+               Lev Reyzin},
+  editor    = {Peter Gr{\"{u}}nwald and
+               Elad Hazan and
+               Satyen Kale},
+  title     = {Open Problem: Learning Quantum Circuits with Queries},
+  booktitle = {Proceedings of The 28th Conference on Learning Theory, {COLT} 2015,
+               Paris, France, July 3-6, 2015},
+  series    = {{JMLR} Workshop and Conference Proceedings},
+  volume    = {40},
+  pages     = {1767--1769},
+  publisher = {JMLR.org},
+  year      = {2015},
+  url       = {http://proceedings.mlr.press/v40/Kun15.html},
+  timestamp = {Wed, 29 May 2019 08:41:46 +0200},
+  biburl    = {https://dblp.org/rec/conf/colt/KunR15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ijcai/HuangPR15,
+  author    = {Yi Huang and
+               Brian Powers and
+               Lev Reyzin},
+  editor    = {Qiang Yang and
+               Michael J. Wooldridge},
+  title     = {Training-Time Optimization of a Budgeted Booster},
+  booktitle = {Proceedings of the Twenty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI} 2015, Buenos Aires, Argentina, July
+               25-31, 2015},
+  pages     = {3583--3589},
+  publisher = {{AAAI} Press},
+  year      = {2015},
+  url       = {http://ijcai.org/Abstract/15/504},
+  timestamp = {Tue, 20 Aug 2019 16:16:43 +0200},
+  biburl    = {https://dblp.org/rec/conf/ijcai/HuangPR15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/wdag/FishKLRT15,
+  author    = {Benjamin Fish and
+               Jeremy Kun and
+               {\'{A}}d{\'{a}}m D{\'{a}}niel Lelkes and
+               Lev Reyzin and
+               Gy{\"{o}}rgy Tur{\'{a}}n},
+  editor    = {Yoram Moses},
+  title     = {On the Computational Complexity of MapReduce},
+  booktitle = {Distributed Computing - 29th International Symposium, {DISC} 2015,
+               Tokyo, Japan, October 7-9, 2015, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {9363},
+  pages     = {1--15},
+  publisher = {Springer},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/978-3-662-48653-5\_1},
+  doi       = {10.1007/978-3-662-48653-5\_1},
+  timestamp = {Tue, 14 May 2019 10:00:54 +0200},
+  biburl    = {https://dblp.org/rec/conf/wdag/FishKLRT15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/ColeFR15,
+  author    = {Sam Cole and
+               Shmuel Friedland and
+               Lev Reyzin},
+  title     = {A Simple Spectral Algorithm for Recovering Planted Partitions},
+  journal   = {CoRR},
+  volume    = {abs/1503.00423},
+  year      = {2015},
+  url       = {http://arxiv.org/abs/1503.00423},
+  archivePrefix = {arXiv},
+  eprint    = {1503.00423},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/ColeFR15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tcs/Ben-DavidR14,
+  author    = {Shalev Ben{-}David and
+               Lev Reyzin},
+  title     = {Data stability in clustering: {A} closer look},
+  journal   = {Theor. Comput. Sci.},
+  volume    = {558},
+  pages     = {51--61},
+  year      = {2014},
+  url       = {https://doi.org/10.1016/j.tcs.2014.09.025},
+  doi       = {10.1016/j.tcs.2014.09.025},
+  timestamp = {Wed, 17 Feb 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tcs/Ben-DavidR14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaai/Reyzin14,
+  author    = {Lev Reyzin},
+  editor    = {Carla E. Brodley and
+               Peter Stone},
+  title     = {On Boosting Sparse Parities},
+  booktitle = {Proceedings of the Twenty-Eighth {AAAI} Conference on Artificial Intelligence,
+               July 27 -31, 2014, Qu{\'{e}}bec City, Qu{\'{e}}bec, Canada},
+  pages     = {2055--2061},
+  publisher = {{AAAI} Press},
+  year      = {2014},
+  url       = {http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8587},
+  timestamp = {Thu, 18 Feb 2021 14:57:22 +0100},
+  biburl    = {https://dblp.org/rec/conf/aaai/Reyzin14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isaim/Reyzin14,
+  author    = {Lev Reyzin},
+  title     = {On Boosting Sparse Parities},
+  booktitle = {International Symposium on Artificial Intelligence and Mathematics,
+               {ISAIM} 2014, Fort Lauderdale, FL, USA, January 6-8, 2014},
+  year      = {2014},
+  url       = {http://www.cs.uic.edu/pub/Isaim2014/WebPreferences/ISAIM2014\_Reyzin.pdf},
+  timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/isaim/Reyzin14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/mfcs/KunR14,
+  author    = {Jeremy Kun and
+               Lev Reyzin},
+  editor    = {Erzs{\'{e}}bet Csuhaj{-}Varj{\'{u}} and
+               Martin Dietzfelbinger and
+               Zolt{\'{a}}n {\'{E}}sik},
+  title     = {On Coloring Resilient Graphs},
+  booktitle = {Mathematical Foundations of Computer Science 2014 - 39th International
+               Symposium, {MFCS} 2014, Budapest, Hungary, August 25-29, 2014. Proceedings,
+               Part {II}},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {8635},
+  pages     = {517--528},
+  publisher = {Springer},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/978-3-662-44465-8\_44},
+  doi       = {10.1007/978-3-662-44465-8\_44},
+  timestamp = {Tue, 14 May 2019 10:00:37 +0200},
+  biburl    = {https://dblp.org/rec/conf/mfcs/KunR14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/KunR14,
+  author    = {Jeremy Kun and
+               Lev Reyzin},
+  title     = {On Coloring Resilient Graphs},
+  journal   = {CoRR},
+  volume    = {abs/1402.4376},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1402.4376},
+  archivePrefix = {arXiv},
+  eprint    = {1402.4376},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/KunR14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/FishKLRT14,
+  author    = {Benjamin Fish and
+               Jeremy Kun and
+               {\'{A}}d{\'{a}}m D{\'{a}}niel Lelkes and
+               Lev Reyzin and
+               Gy{\"{o}}rgy Tur{\'{a}}n},
+  title     = {On the Computational Complexity of MapReduce},
+  journal   = {CoRR},
+  volume    = {abs/1410.0245},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1410.0245},
+  archivePrefix = {arXiv},
+  eprint    = {1410.0245},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/FishKLRT14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/GutfraindKLR14,
+  author    = {Alexander Gutfraind and
+               Jeremy Kun and
+               {\'{A}}d{\'{a}}m D{\'{a}}niel Lelkes and
+               Lev Reyzin},
+  title     = {Network installation and recovery: approximation lower bounds and
+               faster exact formulations},
+  journal   = {CoRR},
+  volume    = {abs/1411.3640},
+  year      = {2014},
+  url       = {http://arxiv.org/abs/1411.3640},
+  archivePrefix = {arXiv},
+  eprint    = {1411.3640},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/GutfraindKLR14.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sagt/KunPR13,
+  author    = {Jeremy Kun and
+               Brian Powers and
+               Lev Reyzin},
+  editor    = {Berthold V{\"{o}}cking},
+  title     = {Anti-coordination Games and Stable Graph Colorings},
+  booktitle = {Algorithmic Game Theory - 6th International Symposium, {SAGT} 2013,
+               Aachen, Germany, October 21-23, 2013. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {8146},
+  pages     = {122--133},
+  publisher = {Springer},
+  year      = {2013},
+  url       = {https://doi.org/10.1007/978-3-642-41392-6\_11},
+  doi       = {10.1007/978-3-642-41392-6\_11},
+  timestamp = {Tue, 14 May 2019 10:00:42 +0200},
+  biburl    = {https://dblp.org/rec/conf/sagt/KunPR13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/stoc/FeldmanGRVX13,
+  author    = {Vitaly Feldman and
+               Elena Grigorescu and
+               Lev Reyzin and
+               Santosh S. Vempala and
+               Ying Xiao},
+  editor    = {Dan Boneh and
+               Tim Roughgarden and
+               Joan Feigenbaum},
+  title     = {Statistical algorithms and a lower bound for detecting planted cliques},
+  booktitle = {Symposium on Theory of Computing Conference, STOC'13, Palo Alto, CA,
+               USA, June 1-4, 2013},
+  pages     = {655--664},
+  publisher = {{ACM}},
+  year      = {2013},
+  url       = {https://doi.org/10.1145/2488608.2488692},
+  doi       = {10.1145/2488608.2488692},
+  timestamp = {Thu, 24 Oct 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/stoc/FeldmanGRVX13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/PerkinsR13,
+  author    = {Will Perkins and
+               Lev Reyzin},
+  title     = {On the Resilience of Bipartite Networks},
+  journal   = {CoRR},
+  volume    = {abs/1306.5720},
+  year      = {2013},
+  url       = {http://arxiv.org/abs/1306.5720},
+  archivePrefix = {arXiv},
+  eprint    = {1306.5720},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/PerkinsR13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/KunPR13,
+  author    = {Jeremy Kun and
+               Brian Powers and
+               Lev Reyzin},
+  title     = {Anti-Coordination Games and Stable Graph Colorings},
+  journal   = {CoRR},
+  volume    = {abs/1308.3258},
+  year      = {2013},
+  url       = {http://arxiv.org/abs/1308.3258},
+  archivePrefix = {arXiv},
+  eprint    = {1308.3258},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/KunPR13.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/Reyzin12,
+  author    = {Lev Reyzin},
+  editor    = {Nader H. Bshouty and
+               Gilles Stoltz and
+               Nicolas Vayatis and
+               Thomas Zeugmann},
+  title     = {Data Stability in Clustering: {A} Closer Look},
+  booktitle = {Algorithmic Learning Theory - 23rd International Conference, {ALT}
+               2012, Lyon, France, October 29-31, 2012. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {7568},
+  pages     = {184--198},
+  publisher = {Springer},
+  year      = {2012},
+  url       = {https://doi.org/10.1007/978-3-642-34106-9\_17},
+  doi       = {10.1007/978-3-642-34106-9\_17},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/Reyzin12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1201-1214,
+  author    = {Vitaly Feldman and
+               Elena Grigorescu and
+               Lev Reyzin and
+               Santosh S. Vempala},
+  title     = {The Complexity of Statistical Algorithms},
+  journal   = {CoRR},
+  volume    = {abs/1201.1214},
+  year      = {2012},
+  url       = {http://arxiv.org/abs/1201.1214},
+  archivePrefix = {arXiv},
+  eprint    = {1201.1214},
+  timestamp = {Thu, 24 Oct 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1201-1214.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/eccc/FeldmanGRVX12,
+  author    = {Vitaly Feldman and
+               Elena Grigorescu and
+               Lev Reyzin and
+               Santosh S. Vempala and
+               Ying Xiao},
+  title     = {Statistical Algorithms and a Lower Bound for Planted Clique},
+  journal   = {Electron. Colloquium Comput. Complex.},
+  volume    = {19},
+  pages     = {64},
+  year      = {2012},
+  url       = {http://eccc.hpi-web.de/report/2012/064},
+  timestamp = {Tue, 08 Sep 2020 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/eccc/FeldmanGRVX12.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/sigact/Reyzin11,
+  author    = {Lev Reyzin},
+  title     = {Review of famous puzzles of great mathematicians by Miodrag S. Petkovi{\c{c}}},
+  journal   = {{SIGACT} News},
+  volume    = {42},
+  number    = {3},
+  pages     = {36--39},
+  year      = {2011},
+  url       = {https://doi.org/10.1145/2034575.2034584},
+  doi       = {10.1145/2034575.2034584},
+  timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/sigact/Reyzin11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/GrigorescuRV11,
+  author    = {Elena Grigorescu and
+               Lev Reyzin and
+               Santosh S. Vempala},
+  editor    = {Jyrki Kivinen and
+               Csaba Szepesv{\'{a}}ri and
+               Esko Ukkonen and
+               Thomas Zeugmann},
+  title     = {On Noise-Tolerant Learning of Sparse Parities and Related Problems},
+  booktitle = {Algorithmic Learning Theory - 22nd International Conference, {ALT}
+               2011, Espoo, Finland, October 5-7, 2011. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6925},
+  pages     = {413--424},
+  publisher = {Springer},
+  year      = {2011},
+  url       = {https://doi.org/10.1007/978-3-642-24412-4\_32},
+  doi       = {10.1007/978-3-642-24412-4\_32},
+  timestamp = {Thu, 24 Oct 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/GrigorescuRV11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icml/Reyzin11,
+  author    = {Lev Reyzin},
+  editor    = {Lise Getoor and
+               Tobias Scheffer},
+  title     = {Boosting on a Budget: Sampling for Feature-Efficient Prediction},
+  booktitle = {Proceedings of the 28th International Conference on Machine Learning,
+               {ICML} 2011, Bellevue, Washington, USA, June 28 - July 2, 2011},
+  pages     = {529--536},
+  publisher = {Omnipress},
+  year      = {2011},
+  url       = {https://icml.cc/2011/papers/348\_icmlpaper.pdf},
+  timestamp = {Wed, 03 Apr 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/icml/Reyzin11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/uai/DudikHKKLRZ11,
+  author    = {Miroslav Dud{\'{\i}}k and
+               Daniel J. Hsu and
+               Satyen Kale and
+               Nikos Karampatziakis and
+               John Langford and
+               Lev Reyzin and
+               Tong Zhang},
+  editor    = {F{\'{a}}bio Gagliardi Cozman and
+               Avi Pfeffer},
+  title     = {Efficient Optimal Learning for Contextual Bandits},
+  booktitle = {{UAI} 2011, Proceedings of the Twenty-Seventh Conference on Uncertainty
+               in Artificial Intelligence, Barcelona, Spain, July 14-17, 2011},
+  pages     = {169--178},
+  publisher = {{AUAI} Press},
+  year      = {2011},
+  url       = {https://dslpitt.org/uai/displayArticleDetails.jsp?mmnu=1\&\#38;smnu=2\&\#38;article\_id=2246\&\#38;proceeding\_id=27},
+  timestamp = {Wed, 03 Feb 2021 11:09:03 +0100},
+  biburl    = {https://dblp.org/rec/conf/uai/DudikHKKLRZ11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:journals/jmlr/BeygelzimerLLRS11,
+  author    = {Alina Beygelzimer and
+               John Langford and
+               Lihong Li and
+               Lev Reyzin and
+               Robert E. Schapire},
+  editor    = {Geoffrey J. Gordon and
+               David B. Dunson and
+               Miroslav Dud{\'{\i}}k},
+  title     = {Contextual Bandit Algorithms with Supervised Learning Guarantees},
+  booktitle = {Proceedings of the Fourteenth International Conference on Artificial
+               Intelligence and Statistics, {AISTATS} 2011, Fort Lauderdale, USA,
+               April 11-13, 2011},
+  series    = {{JMLR} Proceedings},
+  volume    = {15},
+  pages     = {19--26},
+  publisher = {JMLR.org},
+  year      = {2011},
+  url       = {http://proceedings.mlr.press/v15/beygelzimer11a/beygelzimer11a.pdf},
+  timestamp = {Wed, 29 May 2019 08:41:44 +0200},
+  biburl    = {https://dblp.org/rec/journals/jmlr/BeygelzimerLLRS11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:journals/jmlr/ChuLRS11,
+  author    = {Wei Chu and
+               Lihong Li and
+               Lev Reyzin and
+               Robert E. Schapire},
+  editor    = {Geoffrey J. Gordon and
+               David B. Dunson and
+               Miroslav Dud{\'{\i}}k},
+  title     = {Contextual Bandits with Linear Payoff Functions},
+  booktitle = {Proceedings of the Fourteenth International Conference on Artificial
+               Intelligence and Statistics, {AISTATS} 2011, Fort Lauderdale, USA,
+               April 11-13, 2011},
+  series    = {{JMLR} Proceedings},
+  volume    = {15},
+  pages     = {208--214},
+  publisher = {JMLR.org},
+  year      = {2011},
+  url       = {http://proceedings.mlr.press/v15/chu11a/chu11a.pdf},
+  timestamp = {Wed, 29 May 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jmlr/ChuLRS11.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1106-2369,
+  author    = {Miroslav Dud{\'{\i}}k and
+               Daniel J. Hsu and
+               Satyen Kale and
+               Nikos Karampatziakis and
+               John Langford and
+               Lev Reyzin and
+               Tong Zhang},
+  title     = {Efficient Optimal Learning for Contextual Bandits},
+  journal   = {CoRR},
+  volume    = {abs/1106.2369},
+  year      = {2011},
+  url       = {http://arxiv.org/abs/1106.2369},
+  archivePrefix = {arXiv},
+  eprint    = {1106.2369},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1106-2369.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1107-2379,
+  author    = {Lev Reyzin},
+  title     = {Data Stability in Clustering: {A} Closer Look},
+  journal   = {CoRR},
+  volume    = {abs/1107.2379},
+  year      = {2011},
+  url       = {http://arxiv.org/abs/1107.2379},
+  archivePrefix = {arXiv},
+  eprint    = {1107.2379},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1107-2379.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/sigact/ClarkeEGRSSSV10,
+  author    = {Dave Clarke and
+               David Eppstein and
+               Kaveh Ghasemloo and
+               Lev Reyzin and
+               Andr{\'{a}}s Z. Salamon and
+               Peter W. Shor and
+               Aaron Sterling and
+               Suresh Venkatasubramanian},
+  title     = {Questions answered. in theory.: http://cstheory.stackexchange.com/},
+  journal   = {{SIGACT} News},
+  volume    = {41},
+  number    = {4},
+  pages     = {58--60},
+  year      = {2010},
+  url       = {https://doi.org/10.1145/1907450.1907532},
+  doi       = {10.1145/1907450.1907532},
+  timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/sigact/ClarkeEGRSSSV10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/tcs/AngluinAR10,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Lev Reyzin},
+  title     = {Optimally learning social networks with activations and suppressions},
+  journal   = {Theor. Comput. Sci.},
+  volume    = {411},
+  number    = {29-30},
+  pages     = {2729--2740},
+  year      = {2010},
+  url       = {https://doi.org/10.1016/j.tcs.2010.04.008},
+  doi       = {10.1016/j.tcs.2010.04.008},
+  timestamp = {Wed, 17 Feb 2021 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/tcs/AngluinAR10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/AngluinAR10,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Lev Reyzin},
+  editor    = {Marcus Hutter and
+               Frank Stephan and
+               Vladimir Vovk and
+               Thomas Zeugmann},
+  title     = {Inferring Social Networks from Outbreaks},
+  booktitle = {Algorithmic Learning Theory, 21st International Conference, {ALT}
+               2010, Canberra, Australia, October 6-8, 2010. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6331},
+  pages     = {104--118},
+  publisher = {Springer},
+  year      = {2010},
+  url       = {https://doi.org/10.1007/978-3-642-16108-7\_12},
+  doi       = {10.1007/978-3-642-16108-7\_12},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/AngluinAR10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/AngluinEKR10,
+  author    = {Dana Angluin and
+               David Eisenstat and
+               Leonid Kontorovich and
+               Lev Reyzin},
+  editor    = {Marcus Hutter and
+               Frank Stephan and
+               Vladimir Vovk and
+               Thomas Zeugmann},
+  title     = {Lower Bounds on Learning Random Structures with Statistical Queries},
+  booktitle = {Algorithmic Learning Theory, 21st International Conference, {ALT}
+               2010, Canberra, Australia, October 6-8, 2010. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {6331},
+  pages     = {194--208},
+  publisher = {Springer},
+  year      = {2010},
+  url       = {https://doi.org/10.1007/978-3-642-16108-7\_18},
+  doi       = {10.1007/978-3-642-16108-7\_18},
+  timestamp = {Fri, 26 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/AngluinEKR10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/nips/KaleRS10,
+  author    = {Satyen Kale and
+               Lev Reyzin and
+               Robert E. Schapire},
+  editor    = {John D. Lafferty and
+               Christopher K. I. Williams and
+               John Shawe{-}Taylor and
+               Richard S. Zemel and
+               Aron Culotta},
+  title     = {Non-Stochastic Bandit Slate Problems},
+  booktitle = {Advances in Neural Information Processing Systems 23: 24th Annual
+               Conference on Neural Information Processing Systems 2010. Proceedings
+               of a meeting held 6-9 December 2010, Vancouver, British Columbia,
+               Canada},
+  pages     = {1054--1062},
+  publisher = {Curran Associates, Inc.},
+  year      = {2010},
+  url       = {https://proceedings.neurips.cc/paper/2010/hash/390e982518a50e280d8e2b535462ec1f-Abstract.html},
+  timestamp = {Thu, 21 Jan 2021 15:15:24 +0100},
+  biburl    = {https://dblp.org/rec/conf/nips/KaleRS10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1002-4058,
+  author    = {Alina Beygelzimer and
+               John Langford and
+               Lihong Li and
+               Lev Reyzin and
+               Robert E. Schapire},
+  title     = {An Optimal High Probability Algorithm for the Contextual Bandit Problem},
+  journal   = {CoRR},
+  volume    = {abs/1002.4058},
+  year      = {2010},
+  url       = {http://arxiv.org/abs/1002.4058},
+  archivePrefix = {arXiv},
+  eprint    = {1002.4058},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-1002-4058.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jmlr/AngluinACER09,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Jiang Chen and
+               David Eisenstat and
+               Lev Reyzin},
+  title     = {Learning Acyclic Probabilistic Circuits Using Test Paths},
+  journal   = {J. Mach. Learn. Res.},
+  volume    = {10},
+  pages     = {1881--1911},
+  year      = {2009},
+  url       = {https://dl.acm.org/citation.cfm?id=1755848},
+  timestamp = {Wed, 10 Jul 2019 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/jmlr/AngluinACER09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/AngluinBDR09,
+  author    = {Dana Angluin and
+               Leonor Becerra{-}Bonache and
+               Adrian{-}Horia Dediu and
+               Lev Reyzin},
+  editor    = {Ricard Gavald{\`{a}} and
+               G{\'{a}}bor Lugosi and
+               Thomas Zeugmann and
+               Sandra Zilles},
+  title     = {Learning Finite Automata Using Label Queries},
+  booktitle = {Algorithmic Learning Theory, 20th International Conference, {ALT}
+               2009, Porto, Portugal, October 3-5, 2009. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5809},
+  pages     = {171--185},
+  publisher = {Springer},
+  year      = {2009},
+  url       = {https://doi.org/10.1007/978-3-642-04414-4\_17},
+  doi       = {10.1007/978-3-642-04414-4\_17},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/AngluinBDR09.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/ml/AngluinACR08,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Jiang Chen and
+               Lev Reyzin},
+  title     = {Learning large-alphabet and analog circuits with value injection queries},
+  journal   = {Mach. Learn.},
+  volume    = {72},
+  number    = {1-2},
+  pages     = {113--138},
+  year      = {2008},
+  url       = {https://doi.org/10.1007/s10994-008-5048-8},
+  doi       = {10.1007/s10994-008-5048-8},
+  timestamp = {Mon, 02 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/ml/AngluinACR08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/AngluinAR08,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Lev Reyzin},
+  editor    = {Yoav Freund and
+               L{\'{a}}szl{\'{o}} Gy{\"{o}}rfi and
+               Gy{\"{o}}rgy Tur{\'{a}}n and
+               Thomas Zeugmann},
+  title     = {Optimally Learning Social Networks with Activations and Suppressions},
+  booktitle = {Algorithmic Learning Theory, 19th International Conference, {ALT}
+               2008, Budapest, Hungary, October 13-16, 2008. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {5254},
+  pages     = {272--286},
+  publisher = {Springer},
+  year      = {2008},
+  url       = {https://doi.org/10.1007/978-3-540-87987-9\_24},
+  doi       = {10.1007/978-3-540-87987-9\_24},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/AngluinAR08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/colt/AngluinACER08,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Jiang Chen and
+               David Eisenstat and
+               Lev Reyzin},
+  editor    = {Rocco A. Servedio and
+               Tong Zhang},
+  title     = {Learning Acyclic Probabilistic Circuits Using Test Paths},
+  booktitle = {21st Annual Conference on Learning Theory - {COLT} 2008, Helsinki,
+               Finland, July 9-12, 2008},
+  pages     = {169--180},
+  publisher = {Omnipress},
+  year      = {2008},
+  url       = {http://colt2008.cs.helsinki.fi/papers/71-Angluin.pdf},
+  timestamp = {Thu, 12 Mar 2020 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/conf/colt/AngluinACER08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/ipl/ReyzinS07,
+  author    = {Lev Reyzin and
+               Nikhil Srivastava},
+  title     = {On the longest path algorithm for reconstructing trees from distance
+               matrices},
+  journal   = {Inf. Process. Lett.},
+  volume    = {101},
+  number    = {3},
+  pages     = {98--100},
+  year      = {2007},
+  url       = {https://doi.org/10.1016/j.ipl.2006.08.013},
+  doi       = {10.1016/j.ipl.2006.08.013},
+  timestamp = {Fri, 26 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/journals/ipl/ReyzinS07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/alt/ReyzinS07,
+  author    = {Lev Reyzin and
+               Nikhil Srivastava},
+  editor    = {Marcus Hutter and
+               Rocco A. Servedio and
+               Eiji Takimoto},
+  title     = {Learning and Verifying Graphs Using Queries with a Focus on Edge Counting},
+  booktitle = {Algorithmic Learning Theory, 18th International Conference, {ALT}
+               2007, Sendai, Japan, October 1-4, 2007, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4754},
+  pages     = {285--297},
+  publisher = {Springer},
+  year      = {2007},
+  url       = {https://doi.org/10.1007/978-3-540-75225-7\_24},
+  doi       = {10.1007/978-3-540-75225-7\_24},
+  timestamp = {Tue, 14 May 2019 10:00:51 +0200},
+  biburl    = {https://dblp.org/rec/conf/alt/ReyzinS07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/colt/AngluinACR07,
+  author    = {Dana Angluin and
+               James Aspnes and
+               Jiang Chen and
+               Lev Reyzin},
+  editor    = {Nader H. Bshouty and
+               Claudio Gentile},
+  title     = {Learning Large-Alphabet and Analog Circuits with Value Injection Queries},
+  booktitle = {Learning Theory, 20th Annual Conference on Learning Theory, {COLT}
+               2007, San Diego, CA, USA, June 13-15, 2007, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4539},
+  pages     = {51--65},
+  publisher = {Springer},
+  year      = {2007},
+  url       = {https://doi.org/10.1007/978-3-540-72927-3\_6},
+  doi       = {10.1007/978-3-540-72927-3\_6},
+  timestamp = {Tue, 14 May 2019 10:00:53 +0200},
+  biburl    = {https://dblp.org/rec/conf/colt/AngluinACR07.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icml/ReyzinS06,
+  author    = {Lev Reyzin and
+               Robert E. Schapire},
+  editor    = {William W. Cohen and
+               Andrew W. Moore},
+  title     = {How boosting the margin can also boost classifier complexity},
+  booktitle = {Machine Learning, Proceedings of the Twenty-Third International Conference
+               {(ICML} 2006), Pittsburgh, Pennsylvania, USA, June 25-29, 2006},
+  series    = {{ACM} International Conference Proceeding Series},
+  volume    = {148},
+  pages     = {753--760},
+  publisher = {{ACM}},
+  year      = {2006},
+  url       = {https://doi.org/10.1145/1143844.1143939},
+  doi       = {10.1145/1143844.1143939},
+  timestamp = {Tue, 19 Nov 2019 09:25:06 +0100},
+  biburl    = {https://dblp.org/rec/conf/icml/ReyzinS06.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
