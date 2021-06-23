@@ -7,12 +7,16 @@ layout: default
     width: 100%;
     }
   }
+
+  table td, table td * {
+    vertical-align: top;
+  }
 </style>
 
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <h1 class="post-title">{{ page.heading }}</h1>
     <p class="post-description">{{ page.description }}</p>
   </header>
 
@@ -21,3 +25,4 @@ layout: default
   </article>
 
 </div>
+
