@@ -2,20 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: # mathematics professor | theoretical computer scientist | machine learning researcher
+description: Professor of Mathematics, Statistics, & Computer Science | Director of Foundations of Data Science Institute
 
 profile:
   align: right
   image: lev.jpg
-  address: Professor of Mathematics, Statistics, and Computer Science
+  address: 
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-<b>Introduction</b> <br>
-I am an Professor in the Mathematics (MSCS) Department at UIC, where I am part of the MCS group. I also have a courtesy appointment in Computer Science, and I am part of TCS and TRIPODS efforts across both departments. My research interests span the theory and practice of machine learning, network and data science, and optimization.
 
+I am a Professor of Mathematics, Statistics, and Computer Science and the Director of the Foundations of Data Science Institute at UIC.
+My research spans the theory and practice of machine learning. Prior to coming to UIC, I was a Simons Postdoctoral Fellow at Georgia Tech,
+and before that, an NSF CI-Fellow at Yahoo! Research.
+I received my Ph.D. on an NSF graduate research fellowship from Yale under Dana Angluin and my undergraduate degree from Princeton.
+I serve on the board of the Association for Algorithmic Learning Theory, as an Associate Editor of Ann. Math. Artif. Intell., and as an Editorial Board Reviewer for J. Mach. Learn. Res.
+Recently, I was program chair for ALT 2017 and ISAIM 2020.
+My work has earned awards at ICML, COLT, and AISTATS and has been funded by the National Science Foundation and the Department of Defense.
 
-<b>Interests</b> <br>
-Outside of work, I like to ...
