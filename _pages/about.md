@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Professor of Mathematics, Statistics, & Computer Science | Director of Foundations of Data Science Institute
+description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, & Computer Science</a> | <b>Director</b> of <a href="https://tripods.uic.edu">Foundations of Data Science Institute</a>
 
 profile:
   align: right
@@ -22,3 +22,6 @@ I serve on the board of the Association for Algorithmic Learning Theory, as an A
 Recently, I was program chair for ALT 2017 and ISAIM 2020.
 My work has earned awards at ICML, COLT, and AISTATS and has been funded by the National Science Foundation and the Department of Defense.
 
+<div style="text-align:center">
+<img src="/assets/img/UIC.png" width=50px height=50px>  <b>University of Illinois at Chicago</b>
+</div>
