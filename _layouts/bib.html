@@ -7,16 +7,20 @@
     {% if site.data.venues[entry.abbr] %}
     <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
     {% else %}
-      {% if entry.abbr == "preprint" or entry.abbr == "thesis" %}
+      {% if entry.color == "gray" %}
         <abbr class="badge badge-light">{{entry.abbr}}</abbr>
       {% else %}
-        {% if entry.abbr == "journal" or entry.abbr == "JACM" or entry.abbr == "JAIR" or entry.abbr == "AMAI" or entry.abbr == "JMLR" or entry.abbr == "MLJ" or entry.abbr == "JOCO" or entry.abbr == "TCS" or entry.abbr == "SIGACT" or entry.abbr == "SM" or entry.abbr == "JCN" or entry.abbr == "IPL" or entry.abbr == "Nature" %}
+        {% if entry.color == "red" %}
           <abbr class="badge badge-danger">{{entry.abbr}}</abbr>
 	{% else %}
-	  {% if entry.abbr == "TCS (editor)" or entry.abbr == "AMAI (editor)" or entry.abbr == "ALT (editor)"  %}
+	  {% if entry.color == "yellow" %}
             <abbr class="badge badge-warning">{{entry.abbr}}</abbr>
           {% else %}
-            <abbr class="badge">{{entry.abbr}}</abbr>
+	    {% if entry.color == "purple" %}
+              <abbr class="badge badge-secondary">{{entry.abbr}}</abbr>
+            {% else %}
+	      <abbr class="badge">{{entry.abbr}}</abbr>
+            {% endif %}
 	  {% endif %}
         {% endif %}
       {% endif %}

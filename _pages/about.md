@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, & Computer Science</a> | <b>Director</b> of <a href="https://tripods.uic.edu">Foundations of Data Science Institute</a>
+description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, & Computer Science</a> | <b>Director</b> of <a href="https://tripods.uic.edu">Foundations of Data Science Institute</a> 
 
 profile:
   align: right
@@ -12,6 +12,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+socialcontact: true  # includes social icons under photo
 ---
 
 <sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science and the
@@ -22,9 +23,10 @@ He serves on the board of directors of the Association for Algorithmic Learning 
 Reviewer for <i>J. Mach. Learn. Res.</i>  Recently, he was program chair for ALT 2017 and ISAIM 2020. His work has earned awards at ICML, COLT, and AISTATS and has been
 funded by the National Science Foundation and the Department of Defense.<sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
-<span style="font-size:smaller">Research supported in part by the grants:
+UIC <a href="https://theory.cs.uic.edu/">Theoretical Computer Science</a> and <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a>
+
+<!--<span style="font-size:smaller">Research supported in part by the grants:
 NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (2019-2022),
 NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (2018-2021),
 NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (2015-2018),
-and [ARO 66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (2015-2016).</span>
-
+and [ARO 66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (2015-2016).</span>-->

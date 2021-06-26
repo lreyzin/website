@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Lev
+first_name: Lev 
 middle_name:
 last_name: Reyzin
 email: lreyzin@uic.edu
@@ -67,7 +67,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: # your blog must have a name for it to show up in the nav bar
+blog_name: # my blog # your blog must have a name for it to show up in the nav bar
 blog_description: #
 permalink: # http://levreyzin.blogspot.com/ # /blog/:year/:title/
 
@@ -76,7 +76,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: #al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -142,8 +142,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Reyzin
+  first_name: [Lev]
 
   style: apa
   locale: en
