@@ -26,6 +26,15 @@
       {% endif %}
     {% endif %}
   {% endif %}
+
+  {% if entry.award %}
+    {% if entry.color == "red" %}
+      <span class="award-red badge">{{entry.award}}</span>
+    {% else %}
+      <span class="award badge">{{entry.award}}</span>
+    {% endif %}
+  {% endif %}
+	      
   </div>
 
   <div id="{{entry.key}}" class="col-sm-8">
@@ -70,12 +79,12 @@
               {% endif %}
             {% else %}
               {% if author_is_self %}
-                and <em>{{author.first}} {{author.last}}</em>
+                <em>{{author.first}} {{author.last}}</em>
               {% else %}
                 {% if coauthor_url %}
-                  and <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
+                  <a href="{{coauthor_url}}" target="_blank">{{author.first}} {{author.last}}</a>
                 {% else %}
-                  and {{author.first}} {{author.last}}
+                  {{author.first}} {{author.last}}
                 {% endif %}
               {% endif %}
             {% endunless %}

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, & Computer Science</a> | <b>Director</b> of <a href="https://tripods.uic.edu">Foundations of Data Science Institute</a> 
+description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a> | <b>Director</b> of <a href="https://tripods.uic.edu">Foundations of Data Science Institute</a>
 
 profile:
   align: right
