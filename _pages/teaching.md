@@ -9,7 +9,7 @@ heading: teaching
 ---
 
 Below are listed all the courses that I have taught as the primary instructor (or co-instructor), with
-links to the respective course websites.
+links to their respective websites.
 
 <div class="publications">
 

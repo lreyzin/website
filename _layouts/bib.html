@@ -99,7 +99,9 @@
         <em>In {{entry.booktitle}}</em>
       {% endif %}
       {% if entry.year %}
-        {{entry.year}}
+	{% if entry.title != "N/A" %}
+	  {{entry.year}}
+	{% endif %}
       {% endif %}
       </div>
     {% endif %}
