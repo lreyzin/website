@@ -23,10 +23,17 @@ He serves on the board of directors of the Association for Algorithmic Learning 
 Reviewer for <i>J. Mach. Learn. Res.</i>  Recently, he was program chair for ALT 2017 and ISAIM 2020. His work has earned awards at ICML, COLT, and AISTATS and has been
 funded by the National Science Foundation and the Department of Defense.<sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
-UIC <a href="https://theory.cs.uic.edu/">Theoretical Computer Science</a> and <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a>
+<a href="https://theory.cs.uic.edu/">Theoretical Computer Science</a> & <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a> at UIC
 
-<!--<span style="font-size:smaller">Research supported in part by the grants:
-NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (2019-2022),
-NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (2018-2021),
-NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (2015-2018),
-and [ARO 66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (2015-2016).</span>-->
+<hr>
+<span style="font-size:15px">
+My research at UIC has been supported by the following:
+DOD [ERTC-UIC](https://www.cto.mil/dod-awards-31-million-ndep-stem/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term140">KP</a>), 2010-2023;
+NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019-2022;
+NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2021; 
+NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term73">Co-PI</a>) 2015-2018; 
+ARO [66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2015-2016. <br>
+</span>
+<!--<span style="font-size:13px">
+Note: my role is specified in parentheses, where PI = "Principal Investigator," Co-PI = "Co-Principal Investigator," and "KP=Key Person." 
+</span>-->

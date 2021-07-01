@@ -10,12 +10,12 @@ heading: research
 
 <div class="publications">
 
-My papers lie across the theory and practice of machine learning, network and data science, and optimization.
+My research spans the theory and practice of machine learning, network and data science, and optimization. I often find it helpful to browse, ask, and answer research-related questions on <a href="https://cstheory.stackexchange.com">cstheory.stackexchange.com</a>, a theoretical computer science Q&A site where I am also a moderator.<br><br>
+
+
+My papers are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically.
 Citations to my papers can be found on <a href="https://scholar.google.com/citations?user=IQBTvn4AAAAJ&hl=en">Google Scholar</a>.
-<br><br>
-
-My papers are listed below in reverse chronological order by year. Note that authors on all of my publication appear alphabetically. Paper tags are colored as follows:
-
+Paper tags are colored as follows:
 <span class="badge badge-danger">journal article</span> <span class="badge badge-primary">conference article</span> <span class="badge badge-warning">editorial work</span> <span class="badge badge-light">manuscript</span> .
 
 

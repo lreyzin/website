@@ -9,7 +9,7 @@ heading: vita
 
  <h2>full curriculum vitae</h2>
 
-please follow <a href="/assets/pdf/LevReyzin_cv.pdf">this link</a> to access my full vita.
+Please follow <a href="/assets/pdf/LevReyzin_cv.pdf">this link</a> to access my full vita.
 
 <hr>
 
@@ -62,7 +62,7 @@ Below you will find a brief summary of my education and some of the positions I 
     <td width="85%">
 	<b>Department of Mathematics, Statistics, & Computer Science (and Computer Science, by courtesy)</b><br>
         <u>Full Professor</u>, 2021 - present; <u>Associate Professor</u>, 2017-2021; <u>Assistant Professor</u>, 2012-2017<br>
-        <i>received the campus-wide 2020 Graduate Mentoring Award</i><br>
+        <!--<i>received the campus-wide 2020 Graduate Mentoring Award</i><br>-->
 	<b>Foundations of Data Science Institute</b><br>
 	<u>Director</u>, 2019 - present
     </td>
@@ -95,7 +95,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
     <td>
-      <img src="https://www.vectorico.com/wp-content/uploads/2018/02/Yahoo-Icon.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/>
+      <img src="/assets/img/YAHOO.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/>
     </td>
     <td>
       <b>Machine Learning Research Group</b><br>
@@ -119,7 +119,6 @@ Below you will find a brief summary of my education and some of the positions I 
 </table>
 
 <!--
-
 <br>
 
 <h3>grants</h3>

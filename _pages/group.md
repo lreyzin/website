@@ -3,7 +3,7 @@ layout: page
 permalink: /group/
 title: advising
 nav: true
-heading: students and postdocs
+heading: Ph.D. students and postdocs
 ---
 
 I was gratified to receive the campus-wide <a href="https://grad.uic.edu/faculty-staff-resources/other-resources/graduate-mentoring-awards/">Graduate Mentoring Award</a> in 2020.
@@ -13,6 +13,7 @@ To find more information about my broader "academic family," check out my <a hre
 in alphabetical order
 
 <table cellpadding="5" width="100%" class="a">
+
 <tr>
 <td width="20%">
 <img src="/assets/img/xing.jpg" height="150px" width="150px">
