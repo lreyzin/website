@@ -24,7 +24,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Yale University</h5></th></tr>
   <tr>
     <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Yale_University_Shield_1.svg" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/Yale.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
     </td>
     <td width="85%">
 	<!--<b>Doctoral</b><br>-->
@@ -39,7 +39,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Princeton University</h5></th></tr>
   <tr>
     <td>
-        <img src="/assets/img/Princeton.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/Princeton_circle.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
     </td>
     <td>
 	<!--<b>Bachelor's</b><br>-->
@@ -57,7 +57,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
   <tr>
     <td>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/University_of_Illinois_at_Chicago_circle_logo.svg" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/UIC.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
     </td>
     <td width="85%">
 	<b>Department of Mathematics, Statistics, & Computer Science (and Computer Science, by courtesy)</b><br>
@@ -71,7 +71,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Northwestern University</h5></th></tr>
   <tr>
     <td>
-    	  <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Northwestern_University_seal.svg" width="80pt" style = "padding: 0px; display: flex" id="mobile" />
+    	  <img src="/assets/img/NW.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" />
     </td>
     <td>
        <b>Department of Computer Science</b><br>
@@ -82,7 +82,7 @@ Below you will find a brief summary of my education and some of the positions I 
  <tr><th colspan="2"><h5>Georgia Institute of Technology</h5></th></tr>
  <tr>
    <td>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_Tech_seal.svg" width="80pt" style = "padding: 0px; display: flex" id="mobile"/>
+     <img src="/assets/img/GT.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/>
    </td>
    <td>
       <b>Algorithms and Randomness Center & School of Computer Science</b><br>
@@ -172,7 +172,7 @@ Below you will find a brief summary of my education and some of the positions I 
  <tr><th colspan="2"><h5>Georgia Institute of Technology</h5></th></tr>
  <tr>
    <td>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Georgia_Tech_seal.svg" width="80pt" style = "padding: 0px; display: flex" id="mobile"/>
+     <img src="/assets/img/GT.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/>
    </td>
    <td>
       <b>College of Computing</b><br>

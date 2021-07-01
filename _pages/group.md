@@ -12,7 +12,7 @@ To find more information about my broader "academic family," check out my <a hre
 <h3>current</h3>
 in alphabetical order
 
-<table cellpadding="5" width="100%" class="a">
+<table cellpadding="8" width="100%">
 
 <tr>
 <td width="20%">
@@ -70,7 +70,7 @@ TRIPODS Research Assistant Professor (postdoc), 2020 -- present
 <h3>former</h3>
 in reverse chronological order
 
-<table cellpadding="5" width="100%" class="a">
+<table cellpadding="8" width="100%">
 <tr>
 <td width="20%">
 <img src="/assets/img/shelby.jpg" height="150px" width="150px">
@@ -122,18 +122,6 @@ first position: Postdoctoral Scholar at University of Chicago
 </td>
 </tr>
 
-<tr>
-<td>
-<img src="/assets/img/li.jpg" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://blog.uta.edu/wangl3/"><b>Li Wang</b></a></h5>
-Research Assistant Professor (postdoc), 2015 -- 2017 <br>
-research interests: <i>optimization, mathematical programming, tensors, large-data problems</i><br><br>
-current position: Assistant Professor at University of Texas at Arlington<br>
-(UT Arlington was Li's first employer after UIC.)
-</td>
-</tr>
 
 <tr>
 <td>
@@ -147,6 +135,20 @@ current position: Software Engineer at Google Research<br>
 (Google Research was Ádám's first employer after UIC.)
 </td>
 </tr>
+
+<tr>
+<td>
+<img src="/assets/img/li.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><a href="https://blog.uta.edu/wangl3/"><b>Li Wang</b></a></h5>
+Research Assistant Professor (postdoc), 2015 -- 2017 <br>
+research interests: <i>optimization, mathematical programming, tensors, large-data problems</i><br><br>
+current position: Assistant Professor at University of Texas at Arlington<br>
+(UT Arlington was Li's first employer after UIC.)
+</td>
+</tr>
+
 
 <tr>
 <td>
