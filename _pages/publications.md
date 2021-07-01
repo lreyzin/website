@@ -10,7 +10,7 @@ heading: research
 
 <div class="publications">
 
-My research spans the theory and practice of machine learning, network and data science, and optimization. I often find it helpful to browse, ask, and answer research-related questions on <a href="https://cstheory.stackexchange.com">cstheory.stackexchange.com</a>, a theoretical computer science Q&A site where I am also a moderator.<br><br>
+My research spans the theory and practice of machine learning, network and data science, and optimization. I often find it helpful to browse, ask, and answer research-related questions on <a href="https://cstheory.stackexchange.com">cstheory.stackexchange.com</a>, a theoretical computer science Q&A site where I am also a <a href="https://cstheory.stackexchange.com/users/123/lev-reyzin">moderator</a>.<br><br>
 
 
 My papers are listed below in reverse chronological order by year. Note that authors on all of my publications appear alphabetically.
