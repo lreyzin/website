@@ -7,7 +7,7 @@ heading: Ph.D. students and postdocs
 ---
 
 I was gratified to receive the campus-wide <a href="https://grad.uic.edu/faculty-staff-resources/other-resources/graduate-mentoring-awards/">Graduate Mentoring Award</a> in 2020.
-To find more information about my broader "academic family," check out my <a href="https://www.mathgenealogy.org/id.php?id=140632">genealogy</a> entry.
+To find more information about my broader "academic family," visit my <a href="https://www.mathgenealogy.org/id.php?id=140632">genealogy</a> entry.
 
 <h3>current</h3>
 in alphabetical order
