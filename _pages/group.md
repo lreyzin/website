@@ -79,7 +79,7 @@ in reverse chronological order
 <h5><a href="https://shelbyh.ai/"><b>Shelby Heinecke</b></a></h5>
 Ph.D. Mathematics, 2020<br>
 <a href="/assets/pdf/Heinecke20_phd.pdf"><i>"Resilient Structures and Robust Machine Learning Algorithms"</i></a><br><br>
-current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's first position after UIC.)
+current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
 </td>
 </tr>
 
