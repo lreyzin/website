@@ -29,7 +29,7 @@ Below you will find a brief summary of my education and some of the positions I 
     <td width="85%">
 	<!--<b>Doctoral</b><br>-->
         <b>Ph.D.</b> in Computer Science, 2009 (advised by Dana Angluin)<br>
-        <i>funded by an NSF Graduare Fellowship</i><br>
+        <i>funded by an NSF Graduate Fellowship</i><br>
 	<!--<b>Master's</b><br>-->
 	<b>M.Phil.</b> in Computer Science, 2008<br> 
        <b>M.S.</b> in Computer Science, 2006
