@@ -104,7 +104,7 @@ current position: Applied Research Scientist at Lifion by ADP<br>
 <h5><a href="https://ben.fish/"><b>Benjamin Fish</b></a></h5>
 Ph.D. in Mathematics, 2018<br>
 <a href="/assets/pdf/Fish18_phd.pdf"><i>"New Models and Algorithms for Data Analysis"</i></a><br><br>
-current position: Assistant Professor at Michigan<br>
+current position: Assistant Professor at the University of Michigan<br>
 first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI Institute
 </td>
 </tr>
