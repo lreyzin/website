@@ -61,7 +61,7 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
     <td width="85%">
 	<b>Department of Mathematics, Statistics, & Computer Science (and Computer Science, by courtesy)</b><br>
-        <u>Full Professor</u>, 2021 - present; <u>Associate Professor</u>, 2017-2021; <u>Assistant Professor</u>, 2012-2017<br>
+        <u>Professor</u>, 2021 - present; <u>Associate Professor</u>, 2017-2021; <u>Assistant Professor</u>, 2012-2017<br>
         <!--<i>received the campus-wide 2020 Graduate Mentoring Award</i><br>-->
 	<b>Foundations of Data Science Institute</b><br>
 	<u>Director</u>, 2019 - present
