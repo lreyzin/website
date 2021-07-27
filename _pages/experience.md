@@ -24,7 +24,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Yale University</h5></th></tr>
   <tr>
     <td>
-        <img src="/assets/img/Yale.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/Yale.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
     </td>
     <td width="85%">
 	<!--<b>Doctoral</b><br>-->
@@ -39,7 +39,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Princeton University</h5></th></tr>
   <tr>
     <td>
-        <img src="/assets/img/Princeton_circle.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/Princeton_circle.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
     </td>
     <td>
 	<!--<b>Bachelor's</b><br>-->
