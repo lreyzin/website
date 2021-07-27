@@ -57,7 +57,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
   <tr>
     <td>
-        <img src="/assets/img/UIC.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/>
+        <img src="/assets/img/UIC.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
     </td>
     <td width="85%">
 	<b>Department of Mathematics, Statistics, & Computer Science (and Computer Science, by courtesy)</b><br>
@@ -71,7 +71,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Northwestern University</h5></th></tr>
   <tr>
     <td>
-    	  <img src="/assets/img/NW.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" />
+    	  <img src="/assets/img/NW.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" /><br>
     </td>
     <td>
        <b>Department of Computer Science</b><br>
@@ -82,7 +82,7 @@ Below you will find a brief summary of my education and some of the positions I 
  <tr><th colspan="2"><h5>Georgia Institute of Technology</h5></th></tr>
  <tr>
    <td>
-     <img src="/assets/img/GT.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/>
+     <img src="/assets/img/GT.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/><br>
    </td>
    <td>
       <b>Algorithms and Randomness Center & School of Computer Science</b><br>
@@ -95,7 +95,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
     <td>
-      <img src="/assets/img/YAHOO.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/>
+      <img src="/assets/img/YAHOO.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/><br>
     </td>
     <td>
       <b>Machine Learning Research Group</b><br>
@@ -107,7 +107,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Google</h5></th></tr>
   <tr>
    <td>
-    <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/>
+    <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/><br>
    </td>
    <td>
       <b>Research Group</b><br>
