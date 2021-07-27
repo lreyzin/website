@@ -50,8 +50,6 @@ Below you will find a brief summary of my education and some of the positions I 
   </tr>
 </table>
 
-<br>
-
 <h3>experience</h3>
 <table width="100%">
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
