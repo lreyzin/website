@@ -28,7 +28,7 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
     <td width="85%">
 	<!--<b>Doctoral</b><br>-->
-        <b>Ph.D.</b> in Computer Science, 2009 (advised by Dana Angluin)<br>
+        <b>Ph.D.</b> in Computer Science, 2009 (advised by <a href="https://cpsc.yale.edu/people/dana-angluin">Dana Angluin</a>)<br>
         <i>funded by an NSF Graduate Fellowship</i><br>
 	<!--<b>Master's</b><br>-->
 	<b>M.Phil.</b> in Computer Science, 2008<br> 
@@ -84,7 +84,7 @@ Below you will find a brief summary of my education and some of the positions I 
    </td>
    <td>
       <b>Algorithms and Randomness Center & School of Computer Science</b><br>
-      <u>Postdoctoral Fellow</u>, 2010 - 2012 (hosted by Santosh Vempala)<br>
+      <u>Postdoctoral Fellow</u>, 2010 - 2012 (hosted by <a href="https://www.cc.gatech.edu/~vempala/">Santosh Vempala</a>)<br>
       <i>funded by a Simons Postdoctoral Fellowship</i><br>
       <i>received the 2012 College of Computing Outstanding Postdoctoral Research Award</i>
    </td>
@@ -97,7 +97,7 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
     <td>
       <b>Machine Learning Research Group</b><br>
-      <u>Postdoctoral Scientist</u>, 2009-2010 (hosted by John Langford)<br>
+      <u>Postdoctoral Scientist</u>, 2009-2010 (hosted by <a href="https://www.microsoft.com/en-us/research/people/jcl/">John Langford</a>)<br>
       <i>funded by an NSF Computing Innovation Postdoctoral Fellowship</i>
     </td>
   </tr>
@@ -109,9 +109,9 @@ Below you will find a brief summary of my education and some of the positions I 
    </td>
    <td>
       <b>Research Group</b><br>
-      <u>Engineering and Research Intern</u>, 2007 (hosted by Yoram Singer)<br>
+      <u>Engineering and Research Intern</u>, 2007 (hosted by <a href="https://www.cs.princeton.edu/~ysinger/">Yoram Singer</a>)<br>
       <b>News Team</b><br>
-      <u>Engineering and Research Intern</u>, 2006  (hosted by David Cohn)
+      <u>Engineering and Research Intern</u>, 2006  (hosted by <a href="https://davidpablocohn.com/">David Cohn</a>)
     </td>
   </tr>
 </table>
