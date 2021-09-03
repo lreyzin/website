@@ -50,48 +50,7 @@ Below you will find a brief summary of my education and some of the positions I 
   </tr>
 </table>
 
-<h3>adademic experience</h3>
-<table width="100%">
-  <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
-  <tr>
-    <td>
-        <img src="/assets/img/UIC.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
-    </td>
-    <td width="85%">
-	<b>Department of Mathematics, Statistics, & Computer Science (and Computer Science, by courtesy)</b><br>
-        <u>Professor</u>, 2021 - present; <u>Associate Professor</u>, 2017-2021; <u>Assistant Professor</u>, 2012-2017<br>
-        <!--<i>received the campus-wide 2020 Graduate Mentoring Award</i><br>-->
-	<b>Foundations of Data Science Institute</b><br>
-	<u>Director</u>, 2019 - present
-    </td>
-  </tr>
-
-  <tr><th colspan="2"><h5>Northwestern University</h5></th></tr>
-  <tr>
-    <td>
-    	  <img src="/assets/img/NW.png" width="80pt" style = "padding: 0px; display: flex" id="mobile" /><br>
-    </td>
-    <td>
-       <b>Department of Computer Science</b><br>
-       <u>Visiting Associate Professor</u>, 2018-2019
-    </td>
-  </tr>
-
- <tr><th colspan="2"><h5>Georgia Institute of Technology</h5></th></tr>
- <tr>
-   <td>
-     <img src="/assets/img/GT.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/><br>
-   </td>
-   <td>
-      <b>Algorithms and Randomness Center & School of Computer Science</b><br>
-      <u>Postdoctoral Fellow</u>, 2010 - 2012 (hosted by <a href="https://www.cc.gatech.edu/~vempala/">Santosh Vempala</a>)<br>
-      <i>funded by a Simons Postdoctoral Fellowship</i><br>
-      <i>received the 2012 College of Computing Outstanding Postdoctoral Research Award</i>
-   </td>
- </tr>
-</table>
-
-<h3>industry experience</h3>
+<h4>adademic experience</h3>
 <table width="100%">
   <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
