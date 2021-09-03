@@ -50,7 +50,7 @@ Below you will find a brief summary of my education and some of the positions I 
   </tr>
 </table>
 
-<h4>adademic experience</h3>
+<h4>adademic experience</h4>
 <table width="100%">
   <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
