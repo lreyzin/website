@@ -50,7 +50,7 @@ Below you will find a brief summary of my education and some of the positions I 
   </tr>
 </table>
 
-<h3>experience</h3>
+<h3>adademic experience</h3>
 <table width="100%">
   <tr><th colspan="2"><h5>University of Illinois at Chicago</h5></th></tr>
   <tr>
@@ -89,7 +89,10 @@ Below you will find a brief summary of my education and some of the positions I 
       <i>received the 2012 College of Computing Outstanding Postdoctoral Research Award</i>
    </td>
  </tr>
+</table>
 
+<h3>industry experience</h3>
+<table width="100%">
   <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
     <td>
