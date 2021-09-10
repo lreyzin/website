@@ -30,7 +30,7 @@ Ph.D. in Mathematics, in progress
 </td>
 <td>
 <h5><a href="https://mscs.uic.edu/profiles/shajiz2/"><b>Saeid Hajizadeh</b></a></h5>
-Ph.D. in Mathematics, in progress
+Ph.D. in Mathematics, in progress (co-advised with <a href="https://faculty.chicagobooth.edu/haihao-lu">Haihao Lu</a>)
 </td>
 </tr>
 
