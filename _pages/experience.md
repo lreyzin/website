@@ -97,7 +97,7 @@ Below you will find a brief summary of my education and some of the positions I 
 <tr><th colspan="2"><h5>Yahoo!</h5></th></tr>
   <tr>
     <td>
-      <img src="/assets/img/YAHOO.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/><br>
+      <img src="/assets/img/YAHOO.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/><br>
     </td>
     <td>
       <b>Machine Learning Research Group</b><br>
@@ -109,7 +109,7 @@ Below you will find a brief summary of my education and some of the positions I 
   <tr><th colspan="2"><h5>Google</h5></th></tr>
   <tr>
    <td>
-    <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width="80pt" height="auto" style = "padding: 0px; display: flex" id="mobile"/><br>
+    <img src="https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-suite-everything-you-need-know-about-google-newest-0.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/><br>
    </td>
    <td>
       <b>Research Group</b><br>
