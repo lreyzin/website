@@ -99,7 +99,7 @@ Below you will find a brief summary of my education and some of the positions I 
     <td>
       <img src="/assets/img/YAHOO.png" width="80pt" style = "padding: 0px; display: flex" id="mobile"/><br>
     </td>
-    <td>
+    <td width="85%">
       <b>Machine Learning Research Group</b><br>
       <u>Postdoctoral Scientist</u>, 2009-2010 (hosted by <a href="https://www.microsoft.com/en-us/research/people/jcl/">John Langford</a>)<br>
       <i>funded by an NSF Computing Innovation Postdoctoral Fellowship</i>
