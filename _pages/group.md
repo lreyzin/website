@@ -91,8 +91,8 @@ current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's f
 <h5><a href="https://www.manovikash.com/"><b>Mano Vikash Janardhanan</b></a></h5>
 Ph.D. in Mathematics, 2019<br>
 <a href="/assets/pdf/Janardhanan19_phd.pdf"><i>"Algorithms for Learning Networks and Learning from Networks"</i></a><br><br>
-current position: Applied Research Scientist at Lifion by ADP<br>
-(Lifion was Mano's first employer after UIC.)
+current position: Quantitative Researcher in Balyasny Asset Management<br>
+first position: Applied Research Scientist at Lifion by ADP
 </td>
 </tr>
 
