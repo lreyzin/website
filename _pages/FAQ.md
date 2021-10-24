@@ -58,7 +58,7 @@ process, and applications are evaluated by a committee.  If you are a student in
 then come talk to me, but I'll generally expect you to do well in a few 500-level MCS classes before I agree to
 take you as a student.<br>
 
-<b>Q</b>: <i>I want to come to UIC for graduate schoool to study 
+<b>Q</b>: <i>I want to come to UIC for graduate school to study 
 theoretical computer science (TCS).
 Should I apply to MSCS, CS, or ECE?</i><br>
 <b>A</b>: We have a lively <a href="http://theory.cs.uic.edu">TCS</a> presence at UIC. Though it's sometimes possible to work with theory 
@@ -67,7 +67,7 @@ have an advisor in mind, I suggest
 applying to the department where that person has a primary appointment.
 So, if you want to work with me, you should apply to the MSCS department.
 If you are not sure whom you want to work with, among other factors, you might consider whether
-you want a Ph.D. in mathematics or computer science in making a decision
+you want a Ph.D. in mathematics or in another field in making a decision
 where to apply.<br>
 
 
