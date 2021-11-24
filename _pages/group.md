@@ -29,7 +29,7 @@ Ph.D. in Mathematics, in progress (co-advised with <a href="https://homepages.ma
 <img src="/assets/img/saeid.jpg" height="150px" width="150px">
 </td>
 <td>
-<h5><a href="https://mscs.uic.edu/profiles/shajiz2/"><b>Saeid Hajizadeh</b></a></h5>
+<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
 Ph.D. in Mathematics, in progress (co-advised with <a href="https://faculty.chicagobooth.edu/haihao-lu">Haihao Lu</a>)
 </td>
 </tr>
