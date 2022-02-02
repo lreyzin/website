@@ -28,7 +28,7 @@ funded by the National Science Foundation and the Department of Defense.<sub><su
 <hr>
 <span style="font-size:15px">
 My research at UIC has been supported by the following:
-DOD [ERTC-UIC](https://www.cto.mil/dod-awards-31-million-ndep-stem/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term140">KP</a>), 2020-2023;
+DOD [ERTC-UIC](https://www.cto.mil/dod-awards-31-million-ndep-stem/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term140">KP</a>), 2020-2024;
 NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019-2022;
 NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2021; 
 NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term73">Co-PI</a>) 2015-2018; 
