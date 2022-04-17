@@ -18,7 +18,7 @@ Please follow <a href="/assets/pdf/LevReyzin_cv.pdf">this link</a> to access my 
 Below you will find a brief summary of my education and some of the positions I have held.
 <br>
 
-<h4>education</h4>
+
 
 
 <h4>adademic experience</h4>
@@ -89,6 +89,8 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
   </tr>
 </table>
+
+<h4>education</h4>
 
 <table width="100%">
   <tr><th colspan="2"><h5>Yale University</h5></th></tr>
