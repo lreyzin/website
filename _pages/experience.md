@@ -20,36 +20,6 @@ Below you will find a brief summary of my education and some of the positions I 
 
 <h4>education</h4>
 
-<table width="100%">
-  <tr><th colspan="2"><h5>Yale University</h5></th></tr>
-  <tr>
-    <td>
-        <img src="/assets/img/Yale.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
-    </td>
-    <td width="85%">
-	<!--<b>Doctoral</b><br>-->
-        <b>Ph.D.</b> in Computer Science, 2009 (advised by <a href="https://cpsc.yale.edu/people/dana-angluin">Dana Angluin</a>)<br>
-        <i>funded by an NSF Graduate Fellowship</i><br>
-	<!--<b>Master's</b><br>-->
-	<b>M.Phil.</b> in Computer Science, 2008<br> 
-       <b>M.S.</b> in Computer Science, 2006
-    </td>
-  </tr>
-
-  <tr><th colspan="2"><h5>Princeton University</h5></th></tr>
-  <tr>
-    <td>
-        <img src="/assets/img/Princeton_circle.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
-    </td>
-    <td>
-	<!--<b>Bachelor's</b><br>-->
-        <b>B.S.E.</b> in Computer Science, 2005<br>
-        <i>with honors</i><br>
-	<b>Certificate</b> in Applied and Compututational Mathematics, 2005
-    </td>
-  </tr>
-</table>
-
 
 <h4>adademic experience</h4>
 <table width="100%">
@@ -119,6 +89,38 @@ Below you will find a brief summary of my education and some of the positions I 
     </td>
   </tr>
 </table>
+
+<table width="100%">
+  <tr><th colspan="2"><h5>Yale University</h5></th></tr>
+  <tr>
+    <td>
+        <img src="/assets/img/Yale.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
+    </td>
+    <td width="85%">
+	<!--<b>Doctoral</b><br>-->
+        <b>Ph.D.</b> in Computer Science, 2009 (advised by <a href="https://cpsc.yale.edu/people/dana-angluin">Dana Angluin</a>)<br>
+        <i>funded by an NSF Graduate Fellowship</i><br>
+	<!--<b>Master's</b><br>-->
+	<b>M.Phil.</b> in Computer Science, 2008<br> 
+       <b>M.S.</b> in Computer Science, 2006
+    </td>
+  </tr>
+
+  <tr><th colspan="2"><h5>Princeton University</h5></th></tr>
+  <tr>
+    <td>
+        <img src="/assets/img/Princeton_circle.png" width="80pt" style = "padding: 0px; display: flex;" id="mobile"/><br>
+    </td>
+    <td>
+	<!--<b>Bachelor's</b><br>-->
+        <b>B.S.E.</b> in Computer Science, 2005<br>
+        <i>with honors</i><br>
+	<b>Certificate</b> in Applied and Compututational Mathematics, 2005
+    </td>
+  </tr>
+</table>
+
+
 
 <!--
 <br>

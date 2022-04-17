@@ -93,6 +93,16 @@ come work with you for a summer (or semester)?</i><br>
 <b>A</b>: I normally don't fund visiting students, but if you work on topics
 that I'm interested in and have another source of funding, feel free to email me.<br>
 
+<b>Q</b>: <i>I am a local high school student. Can I come and do research with you to gain research
+expereicne? I don't need funding, and I'd be happy to help you any way.</i><br>
+<b>A</b>: The research that I work on is theoretical, which means you usually need to know a lot
+more than programming and calculus to start working with me -- this is beyond the experience of most
+high school students.  I would consider working with a high school student
+who has exceptional preparation (at least linear algebra, discrete math, and algorithms), but
+I would unfortunately have to turn down most students, even those who are very bright and well-prepared.
+<br>
+
+
 <b>Q</b>: <i>How is your last name pronounced?</i><br>
 <b>A</b>: Though my last name likely stems from a <a href="https://en.wikipedia.org/wiki/Rose">thorny flower</a>, it is pronounced like a <a href="https://en.wikipedia.org/wiki/Raisin">dried grape</a>.
 
