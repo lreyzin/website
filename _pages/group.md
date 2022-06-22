@@ -69,7 +69,7 @@ in reverse chronological order
 <td width="20%">
 <img src="/assets/img/aditya.jpg" height="150px" width="150px">
 </td>
-<td>
+<td width="70%">
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
 Research Assistant Professor (postdoc), 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
 
@@ -83,7 +83,7 @@ current position: Assistant Professor at York University<br>
 <td>
 <img src="/assets/img/shelby.jpg" height="150px" width="150px">
 </td>
-<td width="70%">
+<td>
 <h5><a href="https://shelbyh.ai/"><b>Shelby Heinecke</b></a></h5>
 Ph.D. Mathematics, 2020<br>
 <a href="/assets/pdf/Heinecke20_phd.pdf"><i>"Resilient Structures and Robust Machine Learning Algorithms"</i></a><br><br>
@@ -171,4 +171,5 @@ current position:  Software Engineer at Google<br>
 first position: Bitcoin Protocol Engineer at 21 Inc.
 </td>
 </tr>
+
 </table>
