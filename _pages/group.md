@@ -53,7 +53,6 @@ Ph.D. in Mathematics, in progress
 Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)
 </td>
 </tr>
-
 </table>
 
 
@@ -63,7 +62,6 @@ Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidirop
 in reverse chronological order
 
 <table cellpadding="8" width="100%">
-
 
 <tr>
 <td width="20%">
@@ -89,7 +87,6 @@ Ph.D. Mathematics, 2020<br>
 current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
 </td>
 </tr>
-
 
 <tr>
 <td>
@@ -130,7 +127,6 @@ first position: Postdoctoral Scholar at University of Chicago
 </td>
 </tr>
 
-
 <tr>
 <td>
 <img src="/assets/img/adam.jpg" height="150px" width="150px">
@@ -156,7 +152,6 @@ current position: Assistant Professor at University of Texas at Arlington<br>
 (UT Arlington was Li's first employer after UIC.)
 </td>
 </tr>
-
 
 <tr>
 <td>
