@@ -80,7 +80,7 @@ current position: Assistant Professor at York University<br>
 </tr>
 
 <tr>
-<td width="20%">
+<td>
 <img src="/assets/img/shelby.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
