@@ -56,8 +56,6 @@ Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidirop
 </table>
 
 
-<br>
-
 <h3>former</h3>
 in reverse chronological order
 
@@ -70,7 +68,7 @@ in reverse chronological order
 <td width="70%">
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
 Research Assistant Professor (postdoc), 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
-<a href="https://en.wikipedia.org/wiki/Discrete_mathematics">discrete mathematics</a>, <a href="https://en.wikipedia.org/wiki/Probability_theory">probability theory</a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms">analysis of algorithms, <a href="https://en.wikipedia.org/wiki/Coding_theory">coding theory</a>, <a href="https://en.wikipedia.org/wiki/Data_science">data science</a><br><br>
+<a href="https://en.wikipedia.org/wiki/Discrete_mathematics">discrete mathematics</a>, <a href="https://en.wikipedia.org/wiki/Probability_theory">probability theory</a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms">analysis of algorithms</a>, <a href="https://en.wikipedia.org/wiki/Coding_theory">coding theory</a>, <a href="https://en.wikipedia.org/wiki/Data_science">data science</a><br><br>
 current position: Assistant Professor at York University<br>
 (York University was Aditya's first employer after UIC.)
 </td>
