@@ -54,15 +54,7 @@ Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidirop
 </td>
 </tr>
 
-<tr>
-<td>
-<img src="/assets/img/aditya.jpg" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
-Research Assistant Professor (postdoc), 2020 -- present (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)
-</td>
-</tr></table>
+</table>
 
 
 <br>
@@ -71,6 +63,22 @@ Research Assistant Professor (postdoc), 2020 -- present (co-mentored with <a hre
 in reverse chronological order
 
 <table cellpadding="8" width="100%">
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/aditya.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
+Research Assistant Professor (postdoc), 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
+
+<a href="https://en.wikipedia.org/wiki/Discrete_mathematics">discrete mathematics</a>, <a href="https://en.wikipedia.org/wiki/Probability_theory">probability theory</a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms">analysis of algorithms, <a href="https://en.wikipedia.org/wiki/Coding_theory">coding theory</a>, <a href="https://en.wikipedia.org/wiki/Data_science">data science</a><br><br>
+current position: Assistant Professor at York University<br>
+(York University was Aditya's first employer after UIC.)
+</td>
+</tr>
+
 <tr>
 <td width="20%">
 <img src="/assets/img/shelby.jpg" height="150px" width="150px">
@@ -82,6 +90,7 @@ Ph.D. Mathematics, 2020<br>
 current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
 </td>
 </tr>
+
 
 <tr>
 <td>
