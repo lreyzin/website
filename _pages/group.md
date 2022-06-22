@@ -55,6 +55,7 @@ Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidirop
 </tr>
 </table>
 
+<br>
 
 <h3>former</h3>
 in reverse chronological order
