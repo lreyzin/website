@@ -28,7 +28,7 @@ funded by the National Science Foundation and the Department of Defense.<sub><su
 <hr>
 <span style="font-size:15px">
 Supported by:
-NSF [EECS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/educati\
+NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/educati\
 on-and-career-resources/glossary#term165">PI</a>), 2022-2027;
 DOD [ERTC-UIC](https://www.cto.mil/dod-awards-31-million-ndep-stem/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term140">KP</a>), 2020-2024;
 NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019-2023;
