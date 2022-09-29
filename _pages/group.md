@@ -74,7 +74,7 @@ current position: Postdoctoral Scholar at Stanford University in Medicine<br>(St
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
 Research Assistant Professor (postdoc), 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
 <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"><i>discrete mathematics</i></a>, <a href="https://en.wikipedia.org/wiki/Probability_theory"><i>probability theory</i></a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms"><i>analysis of algorithms</i></a>, <a href="https://en.wikipedia.org/wiki/Coding_theory"><i>coding theory</i></a>, <a href="https://en.wikipedia.org/wiki/Data_science"><i>data science</i></a><br><br>
-current position: Assistant Professor at York University in Electrical Engineering and Computer Science<br>
+current position: Assistant Professor at York University in  Electr. Eng. and Comp. Sci.<br>
 (York University was Aditya's first employer after UIC.)
 </td>
 </tr>
@@ -112,7 +112,7 @@ first position: Applied Research Scientist at Lifion by ADP
 <h5><a href="https://ben.fish/"><b>Benjamin Fish</b></a></h5>
 Ph.D. in Mathematics, 2018<br>
 <a href="/assets/pdf/Fish18_phd.pdf"><i>"New Models and Algorithms for Data Analysis"</i></a><br><br>
-current position: Assistant Professor at University of Michigan in Computer Science and Engineering<br>
+current position: Assistant Professor at the University of Michigan in Comp. Sci. and Eng.<br>
 first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI Institute
 </td>
 </tr>
@@ -125,7 +125,7 @@ first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI 
 <h5><a href="https://www.bnl.gov/staff/yhuang2"><b>Yi Huang</b></a></h5>
 Ph.D. in Mathematics, 2017<br>
 <a href="/assets/pdf/Huang17_phd.pdf"><i>"Problems in Learning under Limited Resources and Information"</i></a><br><br>
-current position: Scientific Staff at Brookhaven National Laboratory in Computational Science<br>
+current position: Scientific Staff at Brookhaven National Laboratory in Comput. Sci.<br>
 first position: Postdoctoral Scholar at the University of Chicago in Medicine
 </td>
 </tr>
