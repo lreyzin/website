@@ -83,7 +83,7 @@ current position: Assistant Professor at York University<br>
 <h5><a href="https://shelbyh.ai/"><b>Shelby Heinecke</b></a></h5>
 Ph.D. Mathematics, 2020<br>
 <a href="/assets/pdf/Heinecke20_phd.pdf"><i>"Resilient Structures and Robust Machine Learning Algorithms"</i></a><br><br>
-current position: Research Scientist at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
+current position: Senior Research Scientist at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
 </td>
 </tr>
 
@@ -134,7 +134,7 @@ first position: Postdoctoral Scholar at University of Chicago
 <h5><a href="http://homepages.math.uic.edu/~alelkes/"><b>Ádám D. Lelkes</b></a></h5>
 Ph.D. in Mathematics, 2017 (co-advised with <a href="http://homepages.math.uic.edu/~gyt/">György Turán</a>)<br>
 <a href="/assets/pdf/Lelkes17_phd.pdf"><i>"Algorithms and Complexity Results for Big Data"</i></a><br><br>
-current position: Software Engineer at Google Research<br>
+current position: Senior Software Engineer at Google Research<br>
 (Google Research was Ádám's first employer after UIC.)
 </td>
 </tr>
@@ -147,7 +147,7 @@ current position: Software Engineer at Google Research<br>
 <h5><a href="https://blog.uta.edu/wangl3/"><b>Li Wang</b></a></h5>
 Research Assistant Professor (postdoc), 2015 -- 2017 <br>
 <a href="https://en.wikipedia.org/wiki/Mathematical_optimization"><i>mathematical optimization</i></a>, <a href="https://en.wikipedia.org/wiki/Tensor"><i>tensors</i></a>, <i><a href="https://en.wikipedia.org/wiki/Big_data">large-data</a></i>, <i><a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a></i><br><br>
-current position: Assistant Professor at University of Texas at Arlington<br>
+current position: Associate Professor at University of Texas at Arlington<br>
 (UT Arlington was Li's first employer after UIC.)
 </td>
 </tr>
@@ -160,7 +160,7 @@ current position: Assistant Professor at University of Texas at Arlington<br>
 <h5><a href="https://jeremykun.com/"><b>Jeremy Kun</b></a></h5>
 Ph.D. in Mathematics, 2016<br>
 <a href="/assets/pdf/Kun16_phd.pdf"><i>"Graphs, New Models, and Complexity"</i></a><br><br>
-current position:  Software Engineer at Google<br>
+current position:  Senior Software Engineer at Google<br>
 first position: Bitcoin Protocol Engineer at 21 Inc.
 </td>
 </tr>
