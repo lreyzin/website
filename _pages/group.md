@@ -44,23 +44,30 @@ Ph.D. in Mathematics, in progress
 </td>
 </tr>
 
-<tr>
-<td>
-<img src="/assets/img/neshat.jpg" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://nmoham24.people.uic.edu/"><b>Neshat Mohammadi</b></a></h5> 
-Ph.D. in Computer Science, in progress (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)
-</td>
-</tr>
-</table>
-
 <br>
 
 <h3>former</h3>
 in reverse chronological order
 
 <table cellpadding="8" width="100%">
+
+
+<tr>
+<td>
+<img src="/assets/img/neshat.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><a href="https://nmoham24.people.uic.edu/"><b>Neshat Mohammadi</b></a></h5> 
+Ph.D. in Computer Science, 2022 (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)
+</td>
+<td>
+<a href="/assets/pdf/Mohammadi22_phd.pdf"><i>"Geometric Algorithms for Metric and Graph Learning"</i></a><br><br>
+current position: Postdoctoral Scholar at Stanford University in Medicine<br>(Stanfrod was Neshat's first employer after UIC.)
+</td>
+</tr>
+</table>
+
+
 
 <tr>
 <td width="20%">
@@ -70,7 +77,7 @@ in reverse chronological order
 <h5><a href="https://www.adityapotukuchi.com/home/"><b>Aditya Potukuchi</b></a></h5>
 Research Assistant Professor (postdoc), 2020 -- 2022 (co-mentored with <a href="http://willperkins.org/">Will Perkins</a>)<br>
 <a href="https://en.wikipedia.org/wiki/Discrete_mathematics"><i>discrete mathematics</i></a>, <a href="https://en.wikipedia.org/wiki/Probability_theory"><i>probability theory</i></a>, <a href="https://en.wikipedia.org/wiki/Analysis_of_algorithms"><i>analysis of algorithms</i></a>, <a href="https://en.wikipedia.org/wiki/Coding_theory"><i>coding theory</i></a>, <a href="https://en.wikipedia.org/wiki/Data_science"><i>data science</i></a><br><br>
-current position: Assistant Professor at York University<br>
+current position: Assistant Professor at York University in Electrical Engineering and Computer Science<br>
 (York University was Aditya's first employer after UIC.)
 </td>
 </tr>
@@ -108,7 +115,7 @@ first position: Applied Research Scientist at Lifion by ADP
 <h5><a href="https://ben.fish/"><b>Benjamin Fish</b></a></h5>
 Ph.D. in Mathematics, 2018<br>
 <a href="/assets/pdf/Fish18_phd.pdf"><i>"New Models and Algorithms for Data Analysis"</i></a><br><br>
-current position: Assistant Professor at the University of Michigan<br>
+current position: Assistant Professor at University of Michigan in Computer Science and Engineering<br>
 first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI Institute
 </td>
 </tr>
@@ -121,8 +128,8 @@ first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI 
 <h5><a href="https://www.bnl.gov/staff/yhuang2"><b>Yi Huang</b></a></h5>
 Ph.D. in Mathematics, 2017<br>
 <a href="/assets/pdf/Huang17_phd.pdf"><i>"Problems in Learning under Limited Resources and Information"</i></a><br><br>
-current position: Scientific Staff at Brookhaven National Laboratory<br>
-first position: Postdoctoral Scholar at University of Chicago
+current position: Scientific Staff at Brookhaven National Laboratory in Computational Science<br>
+first position: Postdoctoral Scholar at the University of Chicago in Medicine
 </td>
 </tr>
 
@@ -147,7 +154,7 @@ current position: Senior Software Engineer at Google Research<br>
 <h5><a href="https://blog.uta.edu/wangl3/"><b>Li Wang</b></a></h5>
 Research Assistant Professor (postdoc), 2015 -- 2017 <br>
 <a href="https://en.wikipedia.org/wiki/Mathematical_optimization"><i>mathematical optimization</i></a>, <a href="https://en.wikipedia.org/wiki/Tensor"><i>tensors</i></a>, <i><a href="https://en.wikipedia.org/wiki/Big_data">large-data</a></i>, <i><a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a></i><br><br>
-current position: Associate Professor at University of Texas at Arlington<br>
+current position: Associate Professor at University of Texas at Arlington in Mathematics<br>
 (UT Arlington was Li's first employer after UIC.)
 </td>
 </tr>
