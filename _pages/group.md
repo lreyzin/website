@@ -60,7 +60,7 @@ in reverse chronological order
 <h5><a href="https://nmoham24.people.uic.edu/"><b>Neshat Mohammadi</b></a></h5> 
 Ph.D. in Computer Science, 2022 (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)<br>
 <a href="/assets/pdf/Mohammadi22_phd.pdf"><i>"Geometric Algorithms for Metric and Graph Learning"</i></a><br><br>
-current position: Postdoctoral Scholar at Stanford University in Medicine<br>(Stanfrod was Neshat's first employer after UIC.)
+current position: Postdoctoral Scholar at Stanford University in Medicine<br>(Stanford was Neshat's first employer after UIC.)
 </td>
 </tr>
 
