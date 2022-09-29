@@ -43,7 +43,7 @@ Ph.D. in Mathematics, in progress (co-advised with <a href="https://faculty.chic
 Ph.D. in Mathematics, in progress
 </td>
 </tr>
-
+</table>
 <br>
 
 <h3>former</h3>
@@ -65,7 +65,6 @@ Ph.D. in Computer Science, 2022 (co-advised with <a href="https://sidiropo.peopl
 current position: Postdoctoral Scholar at Stanford University in Medicine<br>(Stanfrod was Neshat's first employer after UIC.)
 </td>
 </tr>
-</table>
 
 
 
