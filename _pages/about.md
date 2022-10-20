@@ -18,8 +18,8 @@ socialcontact: true  # includes social icons under photo
 <sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science and the
 Site Director of the Institute for Data, Econometrics, Algorithms, and Learning at the University of Illinois at Chicago.
 Prior to coming to UIC, Lev was a Simons Postdoctoral Fellow at Georgia Tech, and before that, an
-NSF CI-Fellow at Yahoo! Research. Lev received his Ph.D. on an NSF graduate fellowship from Yale under Dana Angluin and his undergraduate degree from Princeton.
-He serves on the board of directors of the Association for Algorithmic Learning Theory, as an Associate Editor of <i>Ann. Math. Artif. Intell.</i>, and as an Editorial Board
+NSF CI-Fellow at Yahoo! Research. Lev received his Ph.D. on an NSF graduate research fellowship from Yale under Dana Angluin and his undergraduate degree from Princeton.
+He serves as the Treasurer of the Association for Algorithmic Learning Theory, as an Associate Editor of <i>Ann. Math. Artif. Intell.</i>, and as an Editorial Board
 Reviewer for <i>J. Mach. Learn. Res.</i>  Recently, he was program chair for ALT 2017 and ISAIM 2020. His work has earned awards at ICML, COLT, and AISTATS and has been
 funded by the National Science Foundation and the Department of Defense.<sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
