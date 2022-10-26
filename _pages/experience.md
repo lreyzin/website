@@ -33,7 +33,7 @@ Below you will find a brief summary of my education and some of the positions I 
         <u>Professor</u>, 2021 - present; <u>Associate Professor</u>, 2017-2021; <u>Assistant Professor</u>, 2012-2017<br>
         <!--<i>received the campus-wide 2020 Graduate Mentoring Award</i><br>-->
 	<b>The Institute for Data, Econometrics, Algorithms, and Learning (TRIPODS Phase II Institute)</b><br>
-	<u>Site Director</u>, 2022-present, <u>Director (UIC's Phase I institute)</u>, 2019-2022
+	<u>Site Director</u>, 2022-present, <u>Director of Phase I Institute</u>, 2019-2022
     </td>
   </tr>
 
