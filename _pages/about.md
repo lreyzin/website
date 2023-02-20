@@ -28,8 +28,7 @@ funded by the National Science Foundation and the Department of Defense.<sub><su
 <hr>
 <span style="font-size:15px">
 Supported by:
-NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/educati\
-on-and-career-resources/glossary#letterp">PI</a>), 2022-2027;
+NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), 2022-2027;
 DOD [ERTC-UIC](https://www.dodstem.us/meet/blog/entries/national-defense-education-program-stem-awardees/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterk">KP</a>), 2020-2024;
 NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp5">PI</a>), 2019-2023;
 NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), 2018-2021; 
