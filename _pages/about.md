@@ -29,12 +29,12 @@ funded by the National Science Foundation and the Department of Defense.<sub><su
 <span style="font-size:15px">
 Supported by:
 NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/educati\
-on-and-career-resources/glossary#term165">PI</a>), 2022-2027;
-DOD [ERTC-UIC](https://www.dodstem.us/meet/blog/entries/national-defense-education-program-stem-awardees/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term140">KP</a>), 2020-2024;
-NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2019-2023;
-NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2018-2021; 
-NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term73">Co-PI</a>) 2015-2018; 
-ARO [66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#term165">PI</a>), 2015-2016. <br>
+on-and-career-resources/glossary#letterp">PI</a>), 2022-2027;
+DOD [ERTC-UIC](https://www.dodstem.us/meet/blog/entries/national-defense-education-program-stem-awardees/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterk">KP</a>), 2020-2024;
+NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp5">PI</a>), 2019-2023;
+NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), 2018-2021; 
+NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterc">Co-PI</a>) 2015-2018; 
+ARO [66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), 2015-2016. <br>
 </span>
 <!--<span style="font-size:13px">
 Note: my role is specified in parentheses, where PI = "Principal Investigator," Co-PI = "Co-Principal Investigator," and "KP=Key Person." 
