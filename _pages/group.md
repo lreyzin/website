@@ -122,7 +122,7 @@ first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI 
 <img src="/assets/img/yi.jpg" height="150px" width="150px">
 </td>
 <td>
-<h5><a href="https://www.bnl.gov/staff/yhuang2"><b>Yi Huang</b></a></h5>
+<h5><a href="https://pphuangyi.github.io/"><b>Yi Huang</b></a></h5>
 Ph.D. in Mathematics, 2017<br>
 <a href="/assets/pdf/Huang17_phd.pdf"><i>"Problems in Learning under Limited Resources and Information"</i></a><br><br>
 current position: Scientific Staff at Brookhaven National Laboratory in Comput. Sci.<br>
