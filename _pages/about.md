@@ -29,13 +29,13 @@ funded by the NSF and DOD.
 <hr>
 <span style="font-size:15px">
 Supported by:
-NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), '22-'27;
-NSF/Brown [CCF-2307106](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2307106) (<a href="https://ras.mit.edu/grant-and-contract-administration/subawards-overview">SU</a> <a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), '23-'24;
-DOD [ERTC](https://www.dodstem.us/meet/blog/entries/national-defense-education-program-stem-awardees/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterk">KP</a>), '20-'24;
-NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp5">PI</a>), '19-'23;
-NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), '18-'21; 
-NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterc">Co-PI</a>) '15-'18; 
-ARO [66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), '15-'16. <br>
+NSF [ECCS-2217023](https://nsf.gov/awardsearch/showAward?AWD_ID=2217023)  (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), ’22-’27;
+NSF/Brown [CCF-2307106](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2307106) (<a href="https://ras.mit.edu/grant-and-contract-administration/subawards-overview">SU</a> <a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), ’23-’24;
+DOD [ERTC](https://www.dodstem.us/meet/blog/entries/national-defense-education-program-stem-awardees/) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterk">KP</a>), ’20-’24;
+NSF [CCF-1934915](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1934915) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp5">PI</a>), ’19-’23;
+NSF [CCF-1848966](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1848966) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), ’18-’21; 
+NSF [IIS-1526379](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1526379) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterc">Co-PI</a>) ’15-’18; 
+ARO [66497-NS](https://apps.dtic.mil/sti/pdfs/AD1058732.pdf) (<a href="https://ras.mit.edu/education-and-career-resources/glossary#letterp">PI</a>), ’15-’16. <br>
 </span>
 <!--<span style="font-size:13px">
 Note: my role is specified in parentheses, where PI = "Principal Investigator," Co-PI = "Co-Principal Investigator," and "KP=Key Person." 
