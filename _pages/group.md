@@ -43,8 +43,6 @@ Ph.D. in Mathematics, in progress
 Ph.D. in Mathematics, in progress
 </td>
 </tr>
-</table>
-<br>
 
 <tr>
 <td>
@@ -55,6 +53,7 @@ Ph.D. in Mathematics, in progress
 Ph.D. in Mathematics, in progress
 </td>
 </tr>
+
 </table>
 <br>
 
