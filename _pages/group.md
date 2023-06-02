@@ -30,7 +30,7 @@ Ph.D. in Mathematics, in progress (co-advised with <a href="https://homepages.ma
 </td>
 <td>
 <h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
-Ph.D. in Mathematics, in progress (co-advised with <a href="https://faculty.chicagobooth.edu/haihao-lu">Haihao Lu</a>)
+Ph.D. in Mathematics, in progress
 </td>
 </tr>
 
@@ -40,6 +40,18 @@ Ph.D. in Mathematics, in progress (co-advised with <a href="https://faculty.chic
 </td>
 <td>
 <h5><a href="https://tmaran2.people.uic.edu/"><b>Thomas Maranzatto</b></a></h5>
+Ph.D. in Mathematics, in progress
+</td>
+</tr>
+</table>
+<br>
+
+<tr>
+<td>
+<img src="/assets/img/duan.jpg" height="150px" width="150px">
+</td>
+<td>
+<h5><a href="https://www.linkedin.com/in/duan-tu-1432b910b/"><b>Duan Tu</b></a></h5>
 Ph.D. in Mathematics, in progress
 </td>
 </tr>
