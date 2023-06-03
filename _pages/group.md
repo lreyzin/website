@@ -26,7 +26,7 @@ Ph.D. in Mathematics, in progress (co-advised with <a href="https://homepages.ma
 
 <tr>
 <td>
-<img src="/assets/img/saeid.jpg" height="150px" width="150px">
+<img src="/assets/img/saeid.png" height="150px" width="150px">
 </td>
 <td>
 <h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
