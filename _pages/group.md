@@ -67,8 +67,8 @@ in reverse chronological order
 <img src="/assets/img/saeid.png" height="150px" width="150px">
 </td>
 <td widtch="70%">
-<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
-Ph.D. in Mathematics, 2022<br>
+<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeid Hajizadeh</b></a></h5>
+Ph.D. in Mathematics, 2023<br>
 <a href="/assets/pdf/Hajizadeh23_phd.pdf"><i>"Large-scale Minimax Optimization Problems"</i></a><br><br>
 </td>
 </tr>
