@@ -16,21 +16,21 @@ in alphabetical order
 
 <tr>
 <td width="20%">
+<img src="/assets/img/bethany.jpg" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://mscs.uic.edu/profiles/bausth2/"><b>Bethany Austhof</b></a></h5>
+Ph.D. in Mathematics, in progress 
+</td>
+</tr>
+
+<tr>
+<td width="20%">
 <img src="/assets/img/xing.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
 <h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
 Ph.D. in Mathematics, in progress (co-advised with <a href="https://homepages.math.uic.edu/~yucheng/">Yu Cheng</a>)
-</td>
-</tr>
-
-<tr>
-<td>
-<img src="/assets/img/saeid.png" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
-Ph.D. in Mathematics, in progress
 </td>
 </tr>
 
@@ -61,6 +61,18 @@ Ph.D. in Mathematics, in progress
 in reverse chronological order
 
 <table cellpadding="8" width="100%">
+
+<tr>
+<td width="20%">
+<img src="/assets/img/saeid.png" height="150px" width="150px">
+</td>
+<td widtch="70%">
+<h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
+Ph.D. in Mathematics, 2022<br>
+<a href="/assets/pdf/Hajizadeh23_phd.pdf"><i>"Large-scale Minimax Optimization Problems"</i></a><br><br>
+</td>
+</tr>
+
 
 
 <tr>
