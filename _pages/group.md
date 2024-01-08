@@ -49,7 +49,7 @@ Ph.D. in Mathematics, in progress
 <img src="/assets/img/duan.jpg" height="150px" width="150px">
 </td>
 <td>
-<h5><a href="https://www.linkedin.com/in/duan-tu-1432b910b/"><b>Duan Tu</b></a></h5>
+<h5><a href="https://duantu.github.io/"><b>Duan Tu</b></a></h5>
 Ph.D. in Mathematics, in progress
 </td>
 </tr>
