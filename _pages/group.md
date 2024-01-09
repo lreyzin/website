@@ -19,7 +19,7 @@ in alphabetical order
 <img src="/assets/img/bethany.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
-<h5><a href="https://mscs.uic.edu/profiles/bausth2/"><b>Bethany Austhof</b></a></h5>
+<h5><a href="https://sites.google.com/view/bethanyausthof/home"><b>Bethany Austhof</b></a></h5>
 Ph.D. in Mathematics, in progress 
 </td>
 </tr>
