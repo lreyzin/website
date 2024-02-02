@@ -86,7 +86,8 @@ current position: Visiting Faculty at Roosevelt University<br>
 <h5><a href="https://www.linkedin.com/in/neshatmohammadi/"><b>Neshat Mohammadi</b></a></h5>
 Ph.D. in Computer Science, 2022 (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)<br>
 <a href="/assets/pdf/Mohammadi22_phd.pdf"><i>"Geometric Algorithms for Metric and Graph Learning"</i></a><br><br>
-current position: Postdoctoral Scholar at Stanford University in Medicine<br>(Stanford was Neshat's first employer after UIC.)
+current position: Researcher at Truveta<br>
+first position: Postdoctoral Scholar at Stanford University in Medicine
 </td>
 </tr>
 
