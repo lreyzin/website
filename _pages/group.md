@@ -191,7 +191,7 @@ current position: Associate Professor at University of Texas at Arlington in Mat
 <h5><a href="https://jeremykun.com/"><b>Jeremy Kun</b></a></h5>
 Ph.D. in Mathematics, 2016<br>
 <a href="/assets/pdf/Kun16_phd.pdf"><i>"Graphs, New Models, and Complexity"</i></a><br><br>
-current position:  Senior Software Engineer at Google<br>
+current position:  Staff Software Engineer at Google<br>
 first position: Bitcoin Protocol Engineer at 21 Inc.
 </td>
 </tr>
