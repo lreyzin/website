@@ -114,7 +114,7 @@ current position: Assistant Professor at York University in  Electr. Eng. and Co
 <h5><a href="https://www.shelbyh.ai/"><b>Shelby Heinecke</b></a></h5>
 Ph.D. Mathematics, 2020<br>
 <a href="/assets/pdf/Heinecke20_phd.pdf"><i>"Resilient Structures and Robust Machine Learning Algorithms"</i></a><br><br>
-current position: Research Manager at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
+current position: Senior Research Manager at Salesforce<br>(Salesforce was Shelby's first employer after UIC.)
 </td>
 </tr>
 
