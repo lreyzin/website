@@ -30,7 +30,7 @@ Ph.D. in Mathematics, in progress
 </td>
 <td width="70%">
 <h5><a href="https://xgao53.people.uic.edu/"><b>Xing Gao</b></a></h5>
-Ph.D. in Mathematics, in progress (co-advised with <a href="https://homepages.math.uic.edu/~yucheng/">Yu Cheng</a>)
+Ph.D. in Mathematics, in progress (co-advised with <a href="https://cs.brown.edu/people/ycheng79/">Yu Cheng</a>)
 </td>
 </tr>
 
