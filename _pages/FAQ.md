@@ -106,7 +106,7 @@ expereicne? I don't need funding, and I'd be happy to help you any way.</i><br>
 more than programming and calculus to start working with me -- this is beyond the experience of most
 high school students.  I would consider working with a high school student
 who has exceptional preparation (at least linear algebra, discrete math, and algorithms), but
-I would unfortunately have to turn down most students, even those who are very bright and well-prepared.
+in practice I end up turning down the vast majority of students, even those who are very bright and well-prepared.
 <br>
 
 
