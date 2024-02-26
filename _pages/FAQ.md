@@ -34,12 +34,19 @@ is in Mathematics.
 It's much more confusing than it needs to be.<br>
 
 
-<b>Q</b>: <i>I am a graduate student. Do you have any TAships for me?</i><br>
+<b>Q</b>: <i>I am a UIC graduate student. Do you have any TAships for me?</i><br>
 <b>A</b>:
 In math, individual professors generally don't hire their own TAs -- the MSCS graduate
 office is in charge of hiring our graduate TAs.  The department generally only hires its own graduate students,
 but there have been exceptions.
-If you're interested in TAing our classes, you'll have to check with <a href="https://mscs.uic.edu/graduate/gscontact/">them</a>.<br>
+If you're interested in TAing MSCS classes, you'll have to check with <a href="https://mscs.uic.edu/graduate/gscontact/">them</a>.<br>
+
+<b>Q</b>: <i>I am a UIC graduate student. Can you hire me as your RA?</i><br>
+<b>A</b>:
+Funding for research assistantships is very limited, and even most doctoral
+students in my department are funded through teaching assistantships.
+When I do have funding to hire RAs, it is reserved for my advisees.
+<br>
 
 <b>Q</b>:
 <i>I am interested working with you as a postdoc. Will you consider my application to join your group?</i><br>
