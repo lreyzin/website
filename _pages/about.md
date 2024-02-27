@@ -15,11 +15,11 @@ social: false # includes social icons at the bottom of the page
 socialcontact: true  # includes social icons under photo
 ---
 
-<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science and the
-Site Director of the Institute for Data, Econometrics, Algorithms, and Learning at the University of Illinois at Chicago.
-Prior to coming to UIC, Lev was a Simons Postdoctoral Fellow at Georgia Tech and an
-NSF CI-Fellow at Yahoo! Research. Lev received his Ph.D. on an NSF graduate fellowship from Yale under Dana Angluin and his undergraduate degree from Princeton.
-He currently serves as the Steering Committee Chair for the ALT conference, as an Editorial Board Member of <i>Ann. Math. Artif. Intell.</i>, as an Editorial Board Reviewer for <i>J. Mach. Learn. Res.</i>, and as General Co-Chair for FOCS 2024. Previously, he was Program Co-Chair for ALT 2017 and Program Chair for ISAIM 2020. His work has earned awards at ICML, COLT, and AISTATS and has been
+<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin works on the theory of machine learning, data science, and artificial intelligence. He is a Professor of Mathematics, Statistics, and Computer Science and Site Director of the IDEAL Institute
+at the University of Illinois at Chicago.
+Prior to UIC, Lev was a Simons Postdoctoral Fellow at Georgia Tech and an
+NSF CI-Fellow at Yahoo! Research. Lev received his Ph.D. on an NSF doctoral fellowship from Yale under Dana Angluin and his bachelor's degree from Princeton.
+He serves as the Steering Committee Chair for the ALT conference, as an Editorial Board Member of <i>Ann. Math. Artif. Intell.</i>, as an Editorial Board Reviewer for <i>J. Mach. Learn. Res.</i>, and as General Co-Chair for FOCS 2024. Previously, he was Program Co-Chair for ALT 2017 and Program Chair for ISAIM 2020. His work has earned awards at ICML, COLT, and AISTATS and has been
 funded by the NSF and DOD.
 <sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
