@@ -23,7 +23,7 @@ He serves as the Steering Committee Chair for the ALT conference, as an Editoria
 funded by the NSF and DOD.
 <sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
-<a href="https://theory.cs.uic.edu/">Theoretical Computer Science</a> & <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a> at UIC
+<a href="https://cstheory.lab.uic.edu/">Theoretical Computer Science</a> & <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a> at UIC
 
 <hr>
 <span style="font-size:15px">
