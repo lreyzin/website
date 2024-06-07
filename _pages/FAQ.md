@@ -52,7 +52,7 @@ When I do have funding to hire RAs, it is reserved for my advisees.
 <i>I am interested working with you as a postdoc. Will you consider my application to join your group?</i><br>
 <b>A</b>: Unless I have an announcement on my site that I am looking for postdocs, or you
 heard some other way that I am hiring, then no.
-The MSCS department, however, does occasionally <a href="https://www.mscs.uic.edu/employment/">hire</a> postdoctoral RAPs (Research Assistant Professors),
+The MSCS department, however, does occasionally <a href="https://mscs.uic.edu/about/employment/">hire</a> postdoctoral RAPs (Research Assistant Professors),
 and most of the department's postdocs come via this route -- if you're 
 interested, I encourage you to apply.
 In cases of strong graduating students significantly overlapping with me in research interests,
