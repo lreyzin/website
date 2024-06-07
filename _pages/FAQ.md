@@ -60,7 +60,7 @@ applying to the <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5301">
 is a possibility.<br>
 
 <b>Q</b>: <i>I want to be your graduate student.  Can I come work with you?</i><br>
-<b>A</b>: If you are not already a student at UIC, you have to apply first. Our department accepts all students through an official <a href="https://www.mscs.uic.edu/graduate/applicants">application</a>
+<b>A</b>: If you are not already a student at UIC, you have to apply first. Our department accepts all students through an official <a href="https://mscs.uic.edu/graduate/admissions-and-financial-aid/how-to-apply/">application</a>
 process, and applications are evaluated by a committee.  If you are a student in MSCS (or possibly CS),
 then come talk to me, but I'll generally expect you to do well in a few 500-level MCS classes before I agree to
 take you as a student.<br>
@@ -68,7 +68,7 @@ take you as a student.<br>
 <b>Q</b>: <i>I want to come to UIC for graduate school to study 
 theoretical computer science (TCS).
 Should I apply to MSCS, CS, or ECE?</i><br>
-<b>A</b>: We have a lively <a href="http://theory.cs.uic.edu">TCS</a> presence at UIC. Though it's sometimes possible to work with theory 
+<b>A</b>: We have a lively <a href="https://cstheory.lab.uic.edu/">TCS</a> presence at UIC. Though it's sometimes possible to work with theory 
 faculty from a department other than the one you enroll in, if you
 have an advisor in mind, I suggest
 applying to the department where that person has a primary appointment.
