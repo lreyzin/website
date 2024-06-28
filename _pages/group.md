@@ -36,16 +36,6 @@ Ph.D. in Mathematics at UIC, in progress (co-advised with <a href="https://cs.br
 
 <tr>
 <td>
-<img src="/assets/img/jake.jpg" height="150px" width="150px">
-</td>
-<td>
-<h5><a href="https://tmaran2.people.uic.edu/"><b>Thomas Maranzatto</b></a></h5>
-Ph.D. in Mathematics at UIC, in progress
-</td>
-</tr>
-
-<tr>
-<td>
 <img src="/assets/img/duan.jpg" height="150px" width="150px">
 </td>
 <td>
@@ -64,13 +54,27 @@ in reverse chronological order
 
 <tr>
 <td width="20%">
+<img src="/assets/img/jake.jpg" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://tmaran2.people.uic.edu/"><b>Thomas Jacob Maranzatto</b></a></h5>
+Ph.D. in Mathematics at UIC, 2024<br>
+<a href="/assets/pdf/Maranzatto24_phd.pdf"><i>"Combinatorial Methods for Learning and Information Theory"</i></a><br><br>
+current position: Postdoctoral Fellow at University of Maryland<br>
+(Maryland was Jake's first emplyer after UIC.)
+</td>
+</tr>
+
+
+
+<tr>
+<td width="20%">
 <img src="/assets/img/saeid.png" height="150px" width="150px">
 </td>
-<td widtch="70%">
+<td width="70%">
 <h5><a href="https://saeedhajizadeh.github.io/"><b>Saeed Hajizadeh</b></a></h5>
 Ph.D. in Mathematics at UIC, 2023<br>
 <a href="/assets/pdf/Hajizadeh23_phd.pdf"><i>"Large-scale Minimax Optimization Problems"</i></a><br><br>
-
 current position: Visiting Faculty at Roosevelt University<br>
 (Roosevelt was Saeed's first employer after UIC.)
 </td>
@@ -82,7 +86,7 @@ current position: Visiting Faculty at Roosevelt University<br>
 <td width="20%">
 <img src="/assets/img/neshat.jpg" height="150px" width="150px">
 </td>
-<td widtch="70%">
+<td width="70%">
 <h5><a href="https://www.linkedin.com/in/neshatmohammadi/"><b>Neshat Mohammadi</b></a></h5>
 Ph.D. in Computer Science at UIC, 2022 (co-advised with <a href="https://sidiropo.people.uic.edu/">Anastasios Sidiropoulos</a>)<br>
 <a href="/assets/pdf/Mohammadi22_phd.pdf"><i>"Geometric Algorithms for Metric and Graph Learning"</i></a><br><br>
