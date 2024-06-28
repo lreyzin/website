@@ -60,7 +60,7 @@ in reverse chronological order
 <h5><a href="https://tmaran2.people.uic.edu/"><b>Thomas Jacob Maranzatto</b></a></h5>
 Ph.D. in Mathematics at UIC, 2024<br>
 <a href="/assets/pdf/Maranzatto24_phd.pdf"><i>"Combinatorial Methods for Learning and Information Theory"</i></a><br><br>
-current position: Postdoctoral Fellow at University of Maryland<br>
+current position: Postdoctoral Researcher at the University of Maryland<br>
 (Maryland was Jake's first emplyer after UIC.)
 </td>
 </tr>
