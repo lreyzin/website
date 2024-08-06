@@ -16,13 +16,26 @@ in alphabetical order
 
 <tr>
 <td width="20%">
-<img src="/assets/img/bethany.jpg" height="150px" width="150px">
+<img src="/assets/img/idan.jpg" height="150px" width="150px">
+</td>
+<td width="70%">
+<h5><a href="https://www.idanattias.com/"><b>Idan Attias</b></a></h5>
+Postdoctoral Fellow at IDEAL, 2024 -- present (co-mentored with <a href="https://home.ttic.edu/~avrim/">Avrim Blum</a>)<br>
+<i><a href="https://en.wikipedia.org/wiki/Computational_learning_theory">learning theory</a>, <a href="https://en.wikipedia.org/wiki/Data_based_decision_making">decision-making</a>, <a href="https://en.wikipedia.org/wiki/Game_theory">game theory</a>, <a href="https://en.wikipedia.org/wiki/Mathematical_optimization">optimization</a>, <a href="https://en.wikipedia.org/wiki/Causal_inference">inference</a>, <a href="https://en.wikipedia.org/wiki/Information_theory">information theory</a></i>
+</td>
+</tr>
+
+
+<tr>
+<td width="20%">
+<img src="/assets/img/bethany.jpg" height="150px" width="150px" />
 </td>
 <td width="70%">
 <h5><a href="https://sites.google.com/view/bethanyausthof/home"><b>Bethany Austhof</b></a></h5>
 Ph.D. in Mathematics at UIC, in progress 
 </td>
 </tr>
+
 
 <tr>
 <td width="20%">
