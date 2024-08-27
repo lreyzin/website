@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a> | <b>Site Director</b> at the <a href="http://ideal-institute.org/">IDEAL Data Science Institute</a>
+description: <b>Professor</b> of <a href="https://mscs.uic.edu">Mathematics, Statistics, and Computer Science</a> | <b>Institute Director</b> of <a href="http://ideal-institute.org/">IDEAL Data Science Institute</a>
 
 profile:
   align: right
