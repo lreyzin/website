@@ -169,7 +169,7 @@ first position: Postdoctoral Researcher at MSR Montréal and the Mila-Quebec AI 
 <h5><a href="https://pphuangyi.github.io/"><b>Yi Huang</b></a></h5>
 Ph.D. in Mathematics at UIC, 2017<br>
 <a href="/assets/pdf/Huang17_phd.pdf"><i>"Problems in Learning under Limited Resources and Information"</i></a><br><br>
-current position: Research Associate at Brookhaven National Laboratory in Comput. Sci.<br>
+current position: Research Staff at Brookhaven National Laboratory in Comput. Sci.<br>
 first position: Postdoctoral Scholar at the University of Chicago in Medicine
 </td>
 </tr>
