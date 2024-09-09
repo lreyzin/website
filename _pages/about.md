@@ -15,7 +15,7 @@ social: false # includes social icons at the bottom of the page
 socialcontact: true  # includes social icons under photo
 ---
 
-<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science and Site Director of the IDEAL Institute
+<sub><sub><sub><span style="font-size:xx-large;">&ldquo;</span></sub></sub></sub>Lev Reyzin is a Professor of Mathematics, Statistics, and Computer Science and the Director of the IDEAL Institute
 at the University of Illinois at Chicago. He works on the theory of machine learning, data science, and artificial intelligence.
 Prior to UIC, Reyzin was a Simons Postdoctoral Fellow at Georgia Tech and an
 NSF CI-Fellow at Yahoo! Research. Reyzin received his Ph.D. on an NSF doctoral fellowship from Yale under Dana Angluin and his bachelor's degree from Princeton.
