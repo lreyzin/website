@@ -21,8 +21,7 @@ and the Director of the IDEAL Institute.
 He works on the theory of machine learning, data science, and artificial intelligence.
 Prior to UIC, Reyzin was a Simons Postdoctoral Fellow at Georgia Tech and an
 NSF CI-Fellow at Yahoo! Research. Reyzin received his Ph.D. on an NSF doctoral fellowship from Yale under Dana Angluin and his bachelor's degree from Princeton.
-He serves as the Steering Committee Chair for the ALT conference, as an Editorial Board Member of <i>Ann. Math. Artif. Intell.</i>, and as an Editorial Board Reviewer for <i>J. Mach. Learn. Res.</i>. Previously, he was a Program Chair for ALT 2017, the Program Chair for ISAIM 2020, and a General Chair fo\
-r FOCS 2024. His work has earned awards at ICML, COLT, and AISTATS and has been
+He serves as the Steering Committee Chair for the ALT conference, as an Editorial Board Member of <i>Ann. Math. Artif. Intell.</i>, and as an Editorial Board Reviewer for <i>J. Mach. Learn. Res.</i>. Previously, he was a a General Chair for FOCS 2024, the Program Chair for ISAIM 2020, and a Program Chair for ALT 2017. His work has earned awards at ICML, COLT, and AISTATS and has been
 funded by the NSF and DOD.<sub><sub><sub><span style="font-size:xx-large;">&rdquo;</span></sub></sub></sub>
 
 <a href="https://cstheory.lab.uic.edu/">Theoretical Computer Science</a> & <a href="http://homepages.math.uic.edu/~mcs/">Mathematical Computer Science</a> at UIC
