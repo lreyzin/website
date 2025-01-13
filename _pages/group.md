@@ -70,7 +70,7 @@ in reverse chronological order
 <img src="/assets/img/jake.jpg" height="150px" width="150px">
 </td>
 <td width="70%">
-<h5><a href="https://tmaran2.people.uic.edu/"><b>Thomas Jacob Maranzatto</b></a></h5>
+<h5><a href="https://terpconnect.umd.edu/~tmaran/"><b>Thomas Jacob Maranzatto</b></a></h5>
 Ph.D. in Mathematics at UIC, 2024<br>
 <a href="/assets/pdf/Maranzatto24_phd.pdf"><i>"Combinatorial Methods for Learning and Information Theory"</i></a><br><br>
 current position: Postdoctoral Researcher at the University of Maryland<br>
